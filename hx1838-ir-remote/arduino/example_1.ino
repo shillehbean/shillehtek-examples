@@ -1,4 +1,4 @@
-// Reads incoming IR signals with the IRremote library and prints the decoded command hex code to Serial.
+// Basic Arduino sketch that initializes the IRremote library and prints received IR command codes (hex) over Serial.
 //
 // Buy this module: https://shillehtek.com/products/hx1838-infrared-ir-wireless-remote-control-module-kit-with-battery
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hx1838-infrared-ir-wireless-remote-control-module-kit-with-battery-manual

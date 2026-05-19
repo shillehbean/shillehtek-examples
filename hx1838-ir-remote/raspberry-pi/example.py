@@ -1,4 +1,4 @@
-# Uses pigpio on a Raspberry Pi to capture raw GPIO edge timings from the IR receiver and print level changes with microsecond timing.
+# Python script using pigpio on a Raspberry Pi to capture and print raw GPIO edge timings (microseconds) for reverse-engineering or debugging IR signals.
 #
 # Buy this module: https://shillehtek.com/products/hx1838-infrared-ir-wireless-remote-control-module-kit-with-battery
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hx1838-infrared-ir-wireless-remote-control-module-kit-with-battery-manual

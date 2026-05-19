@@ -1,4 +1,4 @@
-// Watches decoded IR button codes and switches an LED on or off based on specific hex values.
+// Arduino example that reacts to specific remote button hex codes to control an LED (turn on/off) after you learn the button codes.
 //
 // Buy this module: https://shillehtek.com/products/hx1838-infrared-ir-wireless-remote-control-module-kit-with-battery
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hx1838-infrared-ir-wireless-remote-control-module-kit-with-battery-manual

@@ -1,6 +1,6 @@
 # HX1838 IR Remote
 
-The HX1838 IR Remote receiver module is a small infrared receiver board for reading consumer remote-control signals. Developers can use it to capture remote button codes and build projects that respond to IR commands, such as remote-controlled LEDs, relays, or home-automation triggers. This repo contains example sketches and scripts for Arduino, Raspberry Pi, and MicroPython platforms to get you started decoding and reacting to IR signals.
+The HX1838 is a small infrared (IR) receiver module for decoding remote-control signals. Developers can use it to read and react to IR remote button presses to build projects like remote-controlled lights, media controllers, or IR learning/debug tools with Arduino, Raspberry Pi, or MicroPython boards.
 
 **Buy:** [HX1838 IR Remote](https://shillehtek.com/products/hx1838-infrared-ir-wireless-remote-control-module-kit-with-battery)  
 **Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/hx1838-infrared-ir-wireless-remote-control-module-kit-with-battery-manual)
@@ -16,7 +16,7 @@ The HX1838 IR Remote receiver module is a small infrared receiver board for read
 ## See also
 
 - Arduino Uno
-- Raspberry Pi 4
+- Raspberry Pi
 - Dupont jumper wires
 
 ---

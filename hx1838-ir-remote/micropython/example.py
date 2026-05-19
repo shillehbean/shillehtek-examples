@@ -1,4 +1,4 @@
-# Runs a MicroPython NEC protocol receiver on a Pico (or similar) that invokes a callback to print received NEC-format IR codes and addresses.
+# MicroPython example for RP2040 (Pico) using the micropython-ir library to decode NEC-format IR messages and print the received code and address via a callback.
 #
 # Buy this module: https://shillehtek.com/products/hx1838-infrared-ir-wireless-remote-control-module-kit-with-battery
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hx1838-infrared-ir-wireless-remote-control-module-kit-with-battery-manual
