@@ -44,6 +44,7 @@ Every example links back to the full manual, wiring guide, and product page on [
 | [`capacitive-soil-moisture`](./capacitive-soil-moisture/) — Soil Moisture Sensor V1.2 | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/Analog) |
 | [`ina219-current-monitor`](./ina219-current-monitor/) — INA219 | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/cjmcu-219-ina219-i2c-bi-directional-current-power-monitoring-sensor-module-with-soldering-and-foam) |
 | [`tca9548a-i2c-mux`](./tca9548a-i2c-mux/) — TCA9548A | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/Arduino) |
+| [`cn3791-solar-charger`](./cn3791-solar-charger/) — CN3791 Solar Charger | arduino · esp32 · micropython | [shop](https://shillehtek.com/products/Battery) |
 | [`cp2102-usb-ttl`](./cp2102-usb-ttl/) — CP2102 USB‑TTL | python · raspberry-pi | [shop](https://shillehtek.com/products/cp2102-usb-to-ttl-uart-serial-converter-module-6pin-for-arduino) |
 | [`ultrasonic-mist-maker`](./ultrasonic-mist-maker/) — Ultrasonic Mist Maker | arduino · esp32 · raspberry-pi | [shop](https://shillehtek.com/products/dc-5v-ultrasonic-mist-maker-humidifier-module-108khz-usb) |
 | [`xl4015-buck`](./xl4015-buck/) — XL4015 Buck Module | arduino · python | [shop](https://shillehtek.com/products/dc-dc-xl4015-adjustable-step-down-module-4-38v-5a-96-high-efficiency) |
@@ -143,7 +144,7 @@ Every example links back to the full manual, wiring guide, and product page on [
 | [`xiao-esp32s3`](./xiao-esp32s3/) — XIAO ESP32S3 | esp32 · micropython | [shop](https://shillehtek.com/products/xiao-seeed-esp32s3-pre-soldered-with-usb-c-cable) |
 | [`xiao-nrf52840`](./xiao-nrf52840/) — XIAO nRF52840 | arduino · python | [shop](https://shillehtek.com/products/xiao-seeed-nrf52840-pre-soldered-with-usb-c-cable) |
 
-_135 module(s). Last verified: see commit history._
+_136 module(s). Last verified: see commit history._
 
 ## License
 
