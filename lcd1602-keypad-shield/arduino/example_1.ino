@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/shillehtek-lcd1602-16x2-keypad-shield
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-lcd1602-16x2-keypad-shield-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // LCD1602 Keypad Shield - Hello World

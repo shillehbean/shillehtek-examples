@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/Arduino
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/pdsink-pd-decoy-pd-fast-charging-test-board-5-20v-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // ESP32 PD Decoy monitor with relay cutoff

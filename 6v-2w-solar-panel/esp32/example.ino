@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/110-x-136mm-6v-2w-solar-panel
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/110-x-136mm-6v-2w-solar-panel-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 6V 2W Panel + ESP32 - logs panel voltage to Serial.

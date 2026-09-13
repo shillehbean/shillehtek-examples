@@ -1,23 +1,30 @@
-// Blink the on-board LED on PC13 (active LOW) using the Arduino STM32 core.
+// Toggle the onboard LED (PC13) every 500 ms while sending an incrementing counter over Serial1 (PA9 TX / PA10 RX).
 //
-// Buy this module: https://shillehtek.com/products/shillehtek-unsoldered-stm32f103c8t6-blue-pill-arm-development-board-kit-pro-usb-v
-// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-unsoldered-stm32f103c8t6-blue-pill-arm-development-board-kit-pro-usb-v-manual
-// More examples: https://github.com/shillehtek/examples
+// Buy this module: https://shillehtek.com/products/shillehtek-pre-soldered-authentic-stm32f103c8t6-arm-stm32
+// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-pre-soldered-authentic-stm32f103c8t6-arm-stm32-manual
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
-// STM32 Blue Pill - Blink on-board LED (PC13, active LOW)
-// Install: Boards Manager -> "STM32 MCU based boards" by STMicroelectronics
-// Select Board: "Generic STM32F1 series" -> Board part number "BluePill F103C8"
-// Upload Method: "STM32CubeProgrammer (SWD)" if using ST-LINK
-//                "STM32CubeProgrammer (Serial)" if using USB-TTL
+// Blue Pill blink + serial counter.
+// Board in Arduino IDE: "Generic STM32F1 series" -> "BluePill F103C8"
+// Upload method: STM32CubeProgrammer (Serial) or ST-Link.
+
+#define LED_PIN PC13  // Onboard LED (active LOW)
 
 void setup() {
-  pinMode(PC13, OUTPUT);
+  pinMode(LED_PIN, OUTPUT);
+  Serial1.begin(9600);   // PA9 TX / PA10 RX
+  Serial1.println("Blue Pill awake");
 }
 
+uint32_t counter = 0;
+
 void loop() {
-  digitalWrite(PC13, LOW);   // LED on (active LOW)
+  digitalWrite(LED_PIN, LOW);   // LED on
   delay(500);
-  digitalWrite(PC13, HIGH);  // LED off
+  digitalWrite(LED_PIN, HIGH);  // LED off
   delay(500);
+
+  Serial1.print("Blink #");
+  Serial1.println(counter++);
 }

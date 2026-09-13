@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/xiao-seeed-esp32c3-pre-soldered-with-usb-to-usb-c-cable
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/xiao-seeed-esp32c3-pre-soldered-with-usb-to-usb-c-cable-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # XIAO ESP32-C3 - MicroPython BLE Advertise

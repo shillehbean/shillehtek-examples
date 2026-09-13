@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/3.7V
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/351015-500mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # 351015 LiPo cell voltage monitor for Raspberry Pi Pico (MicroPython)

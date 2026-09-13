@@ -1,8 +1,8 @@
-# Uses luma.oled on a Raspberry Pi to drive the SH1106 via I2C and render static labels plus a live HH:MM:SS clock.
+# Uses the luma.oled library on a Raspberry Pi to drive the SH1106 via I2C, drawing text and updating a live clock every second.
 #
-# Buy this module: https://shillehtek.com/products/1-3-i2c-white-oled-display-module-4-pin-sh1106
-# Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-white-oled-display-module-4-pin-sh1106-manual
-# More examples: https://github.com/shillehtek/examples
+# Buy this module: https://shillehtek.com/products/1-3-i2c-blue-oled-display-module-4-pin-sh1106
+# Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-blue-oled-display-module-4-pin-sh1106-manual
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 #!/usr/bin/env python3

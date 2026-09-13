@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/mcp2515-can-bus-module-tja1050-receiver-spi
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/mcp2515-can-bus-module-tja1050-receiver-spi-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 #include <SPI.h>

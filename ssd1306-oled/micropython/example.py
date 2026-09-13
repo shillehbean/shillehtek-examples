@@ -1,8 +1,8 @@
-# MicroPython example for the Raspberry Pi Pico that initializes the SSD1306 over I2C and writes static text to the 128×64 display.
+# MicroPython example for the Raspberry Pi Pico that initializes the ssd1306 driver over I2C and writes static text to the display.
 #
-# Buy this module: https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306
-# Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-white-oled-display-module-4-pin-ssd1306-manual
-# More examples: https://github.com/shillehtek/examples
+# Buy this module: https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306
+# Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-blue-oled-display-module-4-pin-ssd1306-manual
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # 0.96" SSD1306 OLED - Pico MicroPython Example

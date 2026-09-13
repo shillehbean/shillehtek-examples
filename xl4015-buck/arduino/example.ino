@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/dc-dc-xl4015-adjustable-step-down-module-4-38v-5a-96-high-efficiency
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/dc-dc-xl4015-adjustable-step-down-module-4-38v-5a-96-high-efficiency-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Monitor XL4015 output rail with Arduino ADC

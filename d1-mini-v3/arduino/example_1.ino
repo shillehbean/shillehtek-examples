@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/esp8266-d1-mini-v3-4mb-dev-board-presoldered
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp8266-d1-mini-v3-4mb-dev-board-presoldered-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // D1 Mini V3 - join Wi-Fi and print IP

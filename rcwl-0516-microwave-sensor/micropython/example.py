@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/Arduino
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/rcwl-0516-microwave-doppler-radar-motion-sensor-module-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 from machine import Pin

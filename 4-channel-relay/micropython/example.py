@@ -1,11 +1,11 @@
-# MicroPython example for a Pico that toggles relays connected to GP2–GP5 (active LOW) in sequence with 0.5 s delays and handles a KeyboardInterrupt to stop safely.
+# MicroPython example for Pico that toggles relays on GP2–GP5 using active-LOW outputs, cycling each relay every 500 ms and handling KeyboardInterrupt.
 #
-# Buy this module: https://shillehtek.com/products/4-channel-5v-relay-module
-# Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-5v-relay-module-manual
-# More examples: https://github.com/shillehtek/examples
+# Buy this module: https://shillehtek.com/products/4-channel-12v-relay-module
+# Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-12v-relay-module-manual
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
-# 4-Channel 5V Relay Module - Pico MicroPython Example
+# 4-Channel 12V Relay Module - Pico MicroPython Example
 # IN pins: GP2, GP3, GP4, GP5
 # Active LOW logic.
 

@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/nodemcu-esp8266-development-board-with-0-96-inch-oled-display-type-c-with-soldering-and-foam
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/nodemcu-esp8266-development-board-with-0-96-inch-oled-display-type-c-with-soldering-and-foam-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 #include <Wire.h>

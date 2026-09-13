@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/shillehtek-pre-soldered-authentic-stm32f103c8t6-arm-stm32
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-pre-soldered-authentic-stm32f103c8t6-arm-stm32-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # 1. Install stm32flash:

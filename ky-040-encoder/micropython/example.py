@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/Arduino
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ky-040-rotary-encoder-module-for-arduino-with-demo-code-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # KY-040 Rotary Encoder - Pico MicroPython Example

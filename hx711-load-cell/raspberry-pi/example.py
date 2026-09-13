@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/hx711-weighing-pressure-sensor-module-large-presoldered
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hx711-weighing-pressure-sensor-module-large-presoldered-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 #!/usr/bin/env python3

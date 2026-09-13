@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/mini-usb-host-shield-2-0-adk-module-max3421e-for-arduino-pro-mini
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/mini-usb-host-shield-2-0-adk-module-max3421e-for-arduino-pro-mini-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Bluetooth via the same library, or wired USB.

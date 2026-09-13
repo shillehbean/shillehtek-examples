@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/shillehtek-lm2596-dc-dc-adjustable-step-down-power-supply-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-lm2596-dc-dc-adjustable-step-down-power-supply-module-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 1. Connect IN+ and IN- to your DC source (4-40V).

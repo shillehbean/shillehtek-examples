@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/w1209-12v-digital-temperature-controller-thermostat-switch-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/w1209-12v-digital-temperature-controller-thermostat-switch-module-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 1. Power up the W1209 with 12V DC.

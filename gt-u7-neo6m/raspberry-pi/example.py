@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/gt-u7-gps-module-presoldered-1
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/gt-u7-gps-module-presoldered-1-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # GT-U7 GPS on Raspberry Pi

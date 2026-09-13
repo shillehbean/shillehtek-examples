@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/esp32-dev-board-cp2102-type-c-4mb
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-dev-board-cp2102-type-c-4mb-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // ESP-WROOM-32 - advertise as a BLE peripheral

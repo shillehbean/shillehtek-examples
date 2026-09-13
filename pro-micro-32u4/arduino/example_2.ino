@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/manual
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/pro-micro-atmega32u4-5v-16mhz-presoldered-type-c-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Wire a pushbutton between D2 and GND.

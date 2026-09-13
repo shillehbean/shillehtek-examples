@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/shillehtek-lcd1602-16x2-character-display-module
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-lcd1602-16x2-character-display-module-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 #!/usr/bin/env python3

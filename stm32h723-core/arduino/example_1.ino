@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/shillehtek-pre-soldered-stm32h723zgt6-core-development-board
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-pre-soldered-stm32h723zgt6-core-development-board-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // STM32H723ZGT6 - Blink built-in or external LED

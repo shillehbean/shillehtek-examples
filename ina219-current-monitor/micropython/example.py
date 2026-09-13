@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/cjmcu-219-ina219-i2c-bi-directional-current-power-monitoring-sensor-module-with-soldering-and-foam
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/cjmcu-219-ina219-i2c-bi-directional-current-power-monitoring-sensor-module-with-soldering-and-foam-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # INA219 on Pico - MicroPython

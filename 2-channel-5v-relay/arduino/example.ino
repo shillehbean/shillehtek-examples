@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/2-channel-5v-relay-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/2-channel-5v-relay-module-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 2-Channel 5V Relay Module - Arduino Example

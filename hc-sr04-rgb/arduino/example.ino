@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/shillehtek-hc-sr04-with-rgb-light-distance
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-hc-sr04-with-rgb-light-distance-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // HC-SR04 with RGB Light:

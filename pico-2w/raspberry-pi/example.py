@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/raspberry-pi-pico-2w-presoldered-headers
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/raspberry-pi-pico-2w-presoldered-headers-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 // Raspberry Pi Pico 2W - Pico SDK Blink Example

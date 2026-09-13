@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/xiao-seeed-nrf52840-pre-soldered-with-usb-c-cable
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/xiao-seeed-nrf52840-pre-soldered-with-usb-c-cable-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # XIAO nRF52840 - CircuitPython Hello World

@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/inmp441-i2s-omnidirectional-microphone-module-with-soldering
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/inmp441-i2s-omnidirectional-microphone-module-with-soldering-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 #include <driver/i2s.h>

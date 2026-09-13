@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/dc-5v-ultrasonic-mist-maker-humidifier-module-108khz-usb
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/dc-5v-ultrasonic-mist-maker-humidifier-module-108khz-usb-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // DC 5V Mist Maker - cycle on/off via a MOSFET on D3

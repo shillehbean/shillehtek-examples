@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/18650
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/1s-3-7v-3a-2mos-bms-li-ion-18650-battery-protection-board-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # Pico reads P+ through a 100k/100k divider on ADC0 (GP26)

@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/mq-135-air-quality-hazardous-gas-sensor-module-for-arduino
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/mq-135-air-quality-hazardous-gas-sensor-module-for-arduino-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // MQ-135 - Print analog air quality reading on Arduino

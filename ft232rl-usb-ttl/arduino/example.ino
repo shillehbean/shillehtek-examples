@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/shillehtek-ft232rl-mini-usb-to-ttl-serial-converter-adapter-module-2pcs
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-ft232rl-mini-usb-to-ttl-serial-converter-adapter-module-2pcs-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Blink sketch for Arduino Pro Mini, uploaded via FT232RL

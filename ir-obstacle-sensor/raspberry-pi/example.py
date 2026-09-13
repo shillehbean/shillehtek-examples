@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/ir-infrared-obstacle-avoidance-sensor-module-for-arduino-robot
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ir-infrared-obstacle-avoidance-sensor-module-for-arduino-robot-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 #!/usr/bin/env python3

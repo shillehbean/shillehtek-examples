@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/hm-10-bluetooth-4-0-ble-cc2541-master-slave-module-for-arduino
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hm-10-bluetooth-4-0-ble-cc2541-master-slave-module-for-arduino-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // HM-10 Bluetooth Bridge - Arduino Example

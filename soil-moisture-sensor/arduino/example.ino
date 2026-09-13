@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/soil-moisture-sensor-hygrometer-module-for-arduino-watering-kit
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/soil-moisture-sensor-hygrometer-module-for-arduino-watering-kit-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Soil Moisture Sensor - print analog reading and percent on Arduino

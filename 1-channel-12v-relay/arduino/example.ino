@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/1-channel-12v-relay-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/1-channel-12v-relay-module-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 1-Channel 12V Relay Module - Arduino Example

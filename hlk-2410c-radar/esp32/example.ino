@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/Arduino
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hlk-2410c-human-presence-radar-motion-detection-module-pre-soldered-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 #include <HardwareSerial.h>

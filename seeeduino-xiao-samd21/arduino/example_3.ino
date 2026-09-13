@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/seeeduino-xiao-samd21-arduino-board-presoldered
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/seeeduino-xiao-samd21-arduino-board-presoldered-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Seeeduino XIAO SAMD21 - Send keystrokes over native USB HID

@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/cp2102-usb-to-ttl-uart-serial-converter-module-6pin-for-arduino
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/cp2102-usb-to-ttl-uart-serial-converter-module-6pin-for-arduino-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 #!/usr/bin/env python3

@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/14.8V
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/4s-30a-18650-lithium-battery-protection-board-14-8v-16v-with-cable-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 4S Pack Voltage Monitor for Arduino

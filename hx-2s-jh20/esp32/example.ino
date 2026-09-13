@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/18650
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hx-2s-jh20-2s-7-4v-18650-lithium-battery-protection-board-10a-with-balancer-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // ESP32 reads pack voltage through a 330k/100k divider

@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/Analog
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/capacitive-soil-moisture-sensor-v1-2-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Capacitive Soil Moisture Sensor V1.2 - ESP32

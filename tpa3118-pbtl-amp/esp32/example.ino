@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/tpa3118-pbtl-single-digital-amplifier-board-1x60w
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/tpa3118-pbtl-single-digital-amplifier-board-1x60w-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // ESP32 - DAC sine wave through TPA3118

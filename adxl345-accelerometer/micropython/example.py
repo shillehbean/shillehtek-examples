@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/shillehtek-adxl345-pre-soldered-3-axis-digital-angle-acceleration-sensor-module
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-adxl345-pre-soldered-3-axis-digital-angle-acceleration-sensor-module-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # ADXL345 - Raspberry Pi Pico MicroPython Example

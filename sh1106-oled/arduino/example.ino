@@ -1,8 +1,8 @@
 // Initializes the SH1106 over hardware I2C using the U8g2 library and draws static text lines on the 128x64 display.
 //
-// Buy this module: https://shillehtek.com/products/1-3-i2c-white-oled-display-module-4-pin-sh1106
-// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-white-oled-display-module-4-pin-sh1106-manual
-// More examples: https://github.com/shillehtek/examples
+// Buy this module: https://shillehtek.com/products/1-3-i2c-blue-oled-display-module-4-pin-sh1106
+// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-blue-oled-display-module-4-pin-sh1106-manual
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 1.3" SH1106 OLED - Arduino I2C Example

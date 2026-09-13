@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/433mhz-12v-1-channel-relay-module-with-wireless-remote
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/433mhz-12v-1-channel-relay-module-with-wireless-remote-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Use a 433 MHz RX module + Arduino to learn what code the remote sends

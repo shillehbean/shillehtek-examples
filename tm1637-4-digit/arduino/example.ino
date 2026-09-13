@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/4-bits-tm1637-red-led-display-module-clock
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/4-bits-tm1637-red-led-display-module-clock-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // TM1637 4-Digit Display - Arduino Example (Counter + Clock)

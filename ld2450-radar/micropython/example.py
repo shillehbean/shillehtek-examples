@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/24GHz
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hlk-ld2450-24ghz-mmwave-radar-human-body-tracking-sensor-module-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # HLK-LD2450 on Raspberry Pi Pico (MicroPython)

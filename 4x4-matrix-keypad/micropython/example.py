@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/4x4-membrane-matrix-keypad-16-key-switch-module-for-arduino-diy
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/4x4-membrane-matrix-keypad-16-key-switch-module-for-arduino-diy-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # 4x4 Keypad - Pico MicroPython

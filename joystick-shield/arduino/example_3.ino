@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/joystick-shield-v1-a-gamepad-controller-module-for-arduino-r3
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/joystick-shield-v1-a-gamepad-controller-module-for-arduino-r3-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Convert raw joystick X/Y into discrete UP/DOWN/LEFT/RIGHT

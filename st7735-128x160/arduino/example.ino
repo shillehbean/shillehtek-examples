@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/shillehtek-1-8-inch-tft-lcd-display-module-dual-side-soldering
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-1-8-inch-tft-lcd-display-module-dual-side-soldering-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 1.8" TFT LCD ST7735 - Arduino Example

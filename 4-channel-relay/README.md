@@ -1,22 +1,24 @@
-# 4-Channel Relay Module
+# 4-Channel 12V Relay Module
 
-This is a 4-channel relay board with programmable delay and separate trigger inputs for each relay. Developers can use it to build timed sequences and automation — for example switching lights, pumps, or other loads in a programmable order from an Arduino or Raspberry Pi.
+The 4-Channel 12V Relay is a board that provides four logic-input-controlled relays (active LOW) for switching 12V loads from microcontrollers and single-board computers. Developers can use it to build projects such as lamp or motor control, basic home-automation circuits, and power sequencing where isolated high-voltage switching is required.
 
-**Buy:** [4-Channel Relay Module](https://shillehtek.com/products/4-channel-relay-module-programmable-delay-6-24v)  
-**Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-relay-module-programmable-delay-6-24v-manual)
+**Buy:** [4-Channel 12V Relay Module](https://shillehtek.com/products/4-channel-12v-relay-module)  
+**Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-12v-relay-module-manual)
 
-![4-Channel Relay Module](https://cdn.shopify.com/s/files/1/0837/4340/8415/files/4-Channel_Relay_Module_6-24V_DC_Programmable_Trigger_Delay_pins.png?v=1777139147)
+![4-Channel 12V Relay Module](https://cdn.shopify.com/s/files/1/0837/4340/8415/files/4-chnnale-pins.png?v=1777344047)
 
 ## Examples in this folder
 
 - [`arduino/`](./arduino/) — 1 sample(s)
+- [`esp32/`](./esp32/) — 1 sample(s)
+- [`micropython/`](./micropython/) — 1 sample(s)
 - [`raspberry-pi/`](./raspberry-pi/) — 1 sample(s)
 
 ## See also
 
-- Arduino Nano
+- Arduino Uno
 - Raspberry Pi
-- Dupont jumper wires
+- 12V DC power supply
 
 ---
-_Generated from [https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-relay-module-programmable-delay-6-24v-manual](https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-relay-module-programmable-delay-6-24v-manual). Last verified: see commit history._
+_Generated from [https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-12v-relay-module-manual](https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-12v-relay-module-manual). Last verified: see commit history._

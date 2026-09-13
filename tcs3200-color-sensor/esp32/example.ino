@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/gy-31-tcs3200-rgb-color-recognition-sensor-for-arduino-projects
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/gy-31-tcs3200-rgb-color-recognition-sensor-for-arduino-projects-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // ESP32 + TCS3200: read R/G/B and guess a color name

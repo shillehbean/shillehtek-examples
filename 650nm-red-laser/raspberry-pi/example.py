@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/shillehtek-6mm-650nm-5mw-red-laser-diode-module
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-6mm-650nm-5mw-red-laser-diode-module-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 #!/usr/bin/env python3

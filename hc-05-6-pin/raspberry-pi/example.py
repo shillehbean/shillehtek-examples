@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/hc-05-6pin-bluetooth-module-no-button
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hc-05-6pin-bluetooth-module-no-button-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 #!/usr/bin/env python3

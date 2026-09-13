@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/4x3-membrane-switch-matrix-keypad
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/4x3-membrane-switch-matrix-keypad-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 #include <Keypad.h>

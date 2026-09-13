@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/ds3231-at24c32-iic-module-precision-rtc-module-with-cr2032-battery
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ds3231-at24c32-iic-module-precision-rtc-module-with-cr2032-battery-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 #!/usr/bin/env python3

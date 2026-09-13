@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/Battery
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/cn3791-6v-mppt-solar-charger-module-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // CN3791 Battery Voltage Monitor - Arduino Uno / Nano

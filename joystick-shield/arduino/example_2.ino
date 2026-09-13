@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/joystick-shield-v1-a-gamepad-controller-module-for-arduino-r3
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/joystick-shield-v1-a-gamepad-controller-module-for-arduino-r3-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Map right joystick X (0-1023) to servo angle (0-180)

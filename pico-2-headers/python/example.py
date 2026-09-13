@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/raspberry-pi-pico-2-usb-c-presoldered-headers
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/raspberry-pi-pico-2-usb-c-presoldered-headers-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # Raspberry Pi Pico 2 - CircuitPython Blink Example

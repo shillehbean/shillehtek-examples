@@ -1,11 +1,11 @@
-// Shows how to control the four relays from an ESP32 (active LOW) by toggling GPIO 5, 18, 19, and 21 on and off in sequence with 500 ms delays.
+// ESP32 (Arduino core) example that controls the module on GPIO 5, 18, 19, and 21 using active-LOW signals, toggling each relay with 500 ms intervals.
 //
-// Buy this module: https://shillehtek.com/products/4-channel-5v-relay-module
-// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-5v-relay-module-manual
-// More examples: https://github.com/shillehtek/examples
+// Buy this module: https://shillehtek.com/products/4-channel-12v-relay-module
+// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-12v-relay-module-manual
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
-// 4-Channel 5V Relay Module - ESP32 Arduino Example
+// 4-Channel 12V Relay Module - ESP32 Arduino Example
 // IN pins: GPIO 5, 18, 19, 21
 // Active LOW logic.
 

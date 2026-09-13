@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/esp32-devkitc-ve-8mb-flash-8mb-psram-presoldered
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-devkitc-ve-8mb-flash-8mb-psram-presoldered-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // ESP32-DevKitC-VE - Confirm PSRAM is detected and usable

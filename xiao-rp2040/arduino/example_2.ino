@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/seeed-studio-xiao-rp2040-pre-soldered-with-usb-to-usb-c-cable
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/seeed-studio-xiao-rp2040-pre-soldered-with-usb-to-usb-c-cable-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // XIAO RP2040 - Read 12-bit analog on A0 (GP26)

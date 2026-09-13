@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/ky-006-passive-piezo-buzzer-alarm-module-for-arduino-projects
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ky-006-passive-piezo-buzzer-alarm-module-for-arduino-projects-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # KY-006 on Raspberry Pi Pico - PWM tone (MicroPython)

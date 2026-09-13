@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/st-link-v2-stm8-stm32-programmer-downloader
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/st-link-v2-stm8-stm32-programmer-downloader-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # Flash an STM8 chip over SWIM using stm8flash + ST-LINK V2

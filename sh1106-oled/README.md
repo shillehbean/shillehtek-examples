@@ -1,9 +1,9 @@
-# 1.3in SH1106 OLED
+# 1.3" SH1106 OLED
 
-The 1.3in SH1106 OLED is a 128x64 monochrome I2C display based on the SH1106 controller. This repo contains short examples for Arduino, Raspberry Pi (luma.oled), and MicroPython (Pico/ESP32) showing how to initialize the display and draw text. Use the examples to build small status panels, clocks, or sensor readouts.
+This is a 1.3" SH1106 128x64 monochrome I2C OLED display module. Developers can use it to add text, simple graphics, clocks, and status displays to microcontroller and Raspberry Pi projects.
 
-**Buy:** [1.3in SH1106 OLED](https://shillehtek.com/products/1-3-i2c-white-oled-display-module-4-pin-sh1106)  
-**Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-white-oled-display-module-4-pin-sh1106-manual)
+**Buy:** [1.3" SH1106 OLED](https://shillehtek.com/products/1-3-i2c-blue-oled-display-module-4-pin-sh1106)  
+**Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-blue-oled-display-module-4-pin-sh1106-manual)
 
 ## Examples in this folder
 
@@ -15,8 +15,8 @@ The 1.3in SH1106 OLED is a 128x64 monochrome I2C display based on the SH1106 con
 ## See also
 
 - Arduino Nano
-- Raspberry Pi
+- Raspberry Pi Pico
 - Dupont jumper wires
 
 ---
-_Generated from [https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-white-oled-display-module-4-pin-sh1106-manual](https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-white-oled-display-module-4-pin-sh1106-manual). Last verified: see commit history._
+_Generated from [https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-blue-oled-display-module-4-pin-sh1106-manual](https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-blue-oled-display-module-4-pin-sh1106-manual). Last verified: see commit history._

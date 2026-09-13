@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/4-channel-24v-relay-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-24v-relay-module-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 4-Channel 24V Relay Module - ESP32 Arduino Example

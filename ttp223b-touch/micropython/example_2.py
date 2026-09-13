@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/Arduino
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/digital-sensor-ttp223b-module-capacitive-touch-switch-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # TTP223B Capacitive Touch Switch - Pico MicroPython Example

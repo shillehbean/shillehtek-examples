@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/mks-tmc2209-motor-driver-with-heatsink
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/mks-tmc2209-motor-driver-with-heatsink-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // TMC2209 - UART configuration via TMCStepper library

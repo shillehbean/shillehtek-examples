@@ -1,8 +1,8 @@
-# Uses luma.oled on a Raspberry Pi to drive the SSD1306 over I2C and render static text plus a live HH:MM:SS clock refreshed every second.
+# Uses the luma.oled library on a Raspberry Pi to draw static text and a live clock to the SSD1306 display over I2C.
 #
-# Buy this module: https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306
-# Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-white-oled-display-module-4-pin-ssd1306-manual
-# More examples: https://github.com/shillehtek/examples
+# Buy this module: https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306
+# Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-blue-oled-display-module-4-pin-ssd1306-manual
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 #!/usr/bin/env python3

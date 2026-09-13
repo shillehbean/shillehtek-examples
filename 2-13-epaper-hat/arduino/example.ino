@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/2-13-inch-black-white-e-paper-hat-ink-screen-spi-250x122-for-raspberry-pi
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/2-13-inch-black-white-e-paper-hat-ink-screen-spi-250x122-for-raspberry-pi-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 2.13" Black & White E-Paper - Arduino Example

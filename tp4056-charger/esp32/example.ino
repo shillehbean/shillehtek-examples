@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/Arduino
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/tp4056-1a-lipo-battery-charging-board-type-c-with-current-protection-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // ESP32 TP4056 monitor

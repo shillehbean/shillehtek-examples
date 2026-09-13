@@ -1,9 +1,9 @@
 # SSD1306 OLED
 
-This is a 0.96" I2C SSD1306 monochrome OLED (128×64) display module. Developers can use it to build small status displays, clocks, menus, or sensor readouts for microcontrollers and single-board computers.
+The SSD1306 OLED is a 0.96" 128x64 monochrome I2C display commonly used for small text and simple graphics. These examples show how to initialize and draw text/clock screens from Arduino, Raspberry Pi, Raspberry Pi Pico (MicroPython), and ESP32 (MicroPython).
 
-**Buy:** [SSD1306 OLED](https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306)  
-**Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-white-oled-display-module-4-pin-ssd1306-manual)
+**Buy:** [SSD1306 OLED](https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306)  
+**Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-blue-oled-display-module-4-pin-ssd1306-manual)
 
 ## Examples in this folder
 
@@ -15,8 +15,8 @@ This is a 0.96" I2C SSD1306 monochrome OLED (128×64) display module. Developers
 ## See also
 
 - Arduino Nano
-- Raspberry Pi Pico
+- ESP32 development board
 - Dupont jumper wires
 
 ---
-_Generated from [https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-white-oled-display-module-4-pin-ssd1306-manual](https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-white-oled-display-module-4-pin-ssd1306-manual). Last verified: see commit history._
+_Generated from [https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-blue-oled-display-module-4-pin-ssd1306-manual](https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-blue-oled-display-module-4-pin-ssd1306-manual). Last verified: see commit history._

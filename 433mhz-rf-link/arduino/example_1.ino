@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/433mhz-rf-wireless-transmitter-receiver-link-kit-for-arduino
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/433mhz-rf-wireless-transmitter-receiver-link-kit-for-arduino-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 433 MHz Transmitter - Arduino

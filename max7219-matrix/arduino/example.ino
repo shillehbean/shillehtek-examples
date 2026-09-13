@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/max7219-4-in-1-dot-matrix-display-module-red
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/max7219-4-in-1-dot-matrix-display-module-red-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // MAX7219 4-in-1 Dot Matrix - Arduino Scrolling Text

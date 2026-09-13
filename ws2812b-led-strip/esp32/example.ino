@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/Addressable LED
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/non-waterproof-ws2812b-smd-led-strip-60-led-meter-flexible-5m-roll-5v-ip30-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // WS2812B Strip - ESP32 with FastLED (RMT-driven)

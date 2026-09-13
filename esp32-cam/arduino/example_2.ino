@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/kuongshun-esp32-cam-development-board-wifi-bluetooth-module-with-ov3660-camera-with-soldering-and-foam
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/kuongshun-esp32-cam-development-board-wifi-bluetooth-module-with-ov3660-camera-with-soldering-and-foam-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Capture a JPEG and write it to the SD card

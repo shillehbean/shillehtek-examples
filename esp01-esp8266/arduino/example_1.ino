@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/esp8266-esp-01-serial-wifi-module-1mb-wireless-transceiver-iot
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp8266-esp-01-serial-wifi-module-1mb-wireless-transceiver-iot-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Arduino - manually talk to the ESP-01 from the Serial Monitor

@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/shillehtek-lm2596-dc-dc-adjustable-step-down-power-supply-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-lm2596-dc-dc-adjustable-step-down-power-supply-module-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Read LM2596 OUT+ through a 10k:2k voltage divider on A0.

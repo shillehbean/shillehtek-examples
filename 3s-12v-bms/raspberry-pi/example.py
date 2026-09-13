@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/12V
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/3s-12v-18650-lithium-battery-protection-board-11-1v-12-6v-balanced-25a-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 #!/usr/bin/env python3

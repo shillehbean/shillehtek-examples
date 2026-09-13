@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/max30102-heart-rate-pulse-oximeter-sensor-module-black-presoldered
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/max30102-heart-rate-pulse-oximeter-sensor-module-black-presoldered-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 # MAX30102 Heart Rate Sensor - ESP32 MicroPython Example

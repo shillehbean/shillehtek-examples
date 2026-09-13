@@ -1,6 +1,6 @@
 # Raspberry Pi examples
 
-- [`example.py`](./example.py) — Uses a Raspberry Pi's BCM GPIO pins (17, 27, 22, 23) to sequentially pulse four relay inputs with 100 ms activation and 2 second spacing, and performs GPIO cleanup on exit.
+- [`example.py`](./example.py) — Raspberry Pi Python script using RPi.GPIO (BCM mode) to toggle relays connected to GPIO 17, 27, 22, and 23 in 500 ms intervals and clean up on exit.
 
-Full wiring + setup notes: [manual](https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-relay-module-programmable-delay-6-24v-manual)  
-Buy the module: https://shillehtek.com/products/4-channel-relay-module-programmable-delay-6-24v
+Full wiring + setup notes: [manual](https://shillehtek.com/blogs/shillehtek-product-manuals/4-channel-12v-relay-module-manual)  
+Buy the module: https://shillehtek.com/products/4-channel-12v-relay-module

@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/ac-220v-1-channel-time-delay-relay-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ac-220v-1-channel-time-delay-relay-module-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 1-Channel programmable delay relay - fire trigger from Arduino

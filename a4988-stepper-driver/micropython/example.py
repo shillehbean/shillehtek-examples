@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/shillehtek-original-a4988-stepper-motor-driver-with-heatsink
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-original-a4988-stepper-motor-driver-with-heatsink-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # A4988 - Pico MicroPython

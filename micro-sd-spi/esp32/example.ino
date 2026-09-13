@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/micro-sd-tf-card-adapter-reader-module-spi-interface-for-arduino
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/micro-sd-tf-card-adapter-reader-module-spi-interface-for-arduino-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 #include <SPI.h>

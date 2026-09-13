@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/nrf24l01-2-4ghz-wireless-transceiver-module-spi-for-arduino
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/nrf24l01-2-4ghz-wireless-transceiver-module-spi-for-arduino-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 #include <SPI.h>

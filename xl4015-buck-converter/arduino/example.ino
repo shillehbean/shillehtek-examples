@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/dc-dc-xl4015-adjustable-step-down-module-5a-75w-with-3-bit-digital-voltmeter-display
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/dc-dc-xl4015-adjustable-step-down-module-5a-75w-with-3-bit-digital-voltmeter-display-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Monitor XL4015 output rail with Arduino ADC

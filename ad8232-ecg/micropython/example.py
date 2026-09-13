@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/ad8232-ecg-module-heart-rate-ecg-monitoring-sensor-kit
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ad8232-ecg-module-heart-rate-ecg-monitoring-sensor-kit-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # AD8232 ECG Module - Pico MicroPython Example

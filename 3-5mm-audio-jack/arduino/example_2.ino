@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/shillehtek-pre-soldered-3-5mm-stereo-audio-jack-breakout-board
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-pre-soldered-3-5mm-stereo-audio-jack-breakout-board-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Read electret mic from a TRRS headset

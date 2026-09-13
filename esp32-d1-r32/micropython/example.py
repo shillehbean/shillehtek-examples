@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/wifi-and-bluetooth-esp32-4mb-flash-uno-d1-r32-ch340g-development-board-type-b-usb
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/wifi-and-bluetooth-esp32-4mb-flash-uno-d1-r32-ch340g-development-board-type-b-usb-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # MicroPython on D1 R32 ESP32

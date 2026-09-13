@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/8-channel-12v-relay-module-copy
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/8-channel-12v-relay-module-copy-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # 8-Channel 24V Relay Module - Pico MicroPython Example

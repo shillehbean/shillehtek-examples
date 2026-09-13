@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/hc-sr04-ultrasonic-distance-sensor-module-4-pin-for-arduino
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hc-sr04-ultrasonic-distance-sensor-module-4-pin-for-arduino-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 #!/usr/bin/env python3

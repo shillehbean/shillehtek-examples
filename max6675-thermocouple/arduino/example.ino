@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/Arduino
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/max6675-module-k-type-thermocouple-sensor-measures-up-to-1024-degrees-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // MAX6675 K-type thermocouple - Arduino

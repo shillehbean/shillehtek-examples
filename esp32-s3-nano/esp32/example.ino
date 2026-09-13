@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/esp32-s3-nano-dev-board-presoldered-wifi-ble
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-s3-nano-dev-board-presoldered-wifi-ble-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // ESP32-S3 Nano - Wi-Fi Network Scanner

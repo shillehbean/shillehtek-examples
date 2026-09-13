@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/esp32-c6-n4-dev-board-presoldered
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-c6-n4-dev-board-presoldered-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Blink the onboard WS2812 RGB LED on GPIO8.

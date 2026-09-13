@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/mq-2-flammable-gas-smoke-sensor-module-for-arduino-safety
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/mq-2-flammable-gas-smoke-sensor-module-for-arduino-safety-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // MQ-2 - Print analog reading and trigger a buzzer if smoke/gas detected

@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/1-channel-24v-relay-module
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/1-channel-24v-relay-module-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # 1-Channel 24V Relay Module - Pico MicroPython Example

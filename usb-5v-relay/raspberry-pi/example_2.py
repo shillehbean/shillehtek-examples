@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/usb-control-module-1-channel-5v-relay-module-no-driver-needed
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/usb-control-module-1-channel-5v-relay-module-no-driver-needed-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 // npm install serialport

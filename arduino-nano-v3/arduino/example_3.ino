@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/arduino-nano-v3-presoldered-ch340g-atmega328p-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // Scan the I2C bus and print the address of every device.

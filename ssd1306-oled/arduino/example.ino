@@ -1,8 +1,8 @@
-// Initializes the SSD1306 via I2C using the Adafruit_GFX and Adafruit_SSD1306 libraries and displays static text and device info on a 128×64 OLED.
+// Initializes the SSD1306 over I2C using the Adafruit_GFX and Adafruit_SSD1306 libraries on an Arduino and displays static text.
 //
-// Buy this module: https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306
-// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-white-oled-display-module-4-pin-ssd1306-manual
-// More examples: https://github.com/shillehtek/examples
+// Buy this module: https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306
+// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/0-96-i2c-blue-oled-display-module-4-pin-ssd1306-manual
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 0.96" SSD1306 OLED - Arduino I2C Example

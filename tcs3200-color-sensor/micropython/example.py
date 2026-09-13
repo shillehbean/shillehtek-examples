@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/gy-31-tcs3200-rgb-color-recognition-sensor-for-arduino-projects
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/gy-31-tcs3200-rgb-color-recognition-sensor-for-arduino-projects-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # GY-31 TCS3200 on Raspberry Pi Pico (MicroPython)

@@ -1,8 +1,8 @@
-// Shows how to use the sh1106 MicroPython driver on an ESP32 over I2C to display static text on the OLED.
+// Shows how to run the sh1106 MicroPython driver on an ESP32 via I2C to display static text on the 128x64 OLED.
 //
-// Buy this module: https://shillehtek.com/products/1-3-i2c-white-oled-display-module-4-pin-sh1106
-// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-white-oled-display-module-4-pin-sh1106-manual
-// More examples: https://github.com/shillehtek/examples
+// Buy this module: https://shillehtek.com/products/1-3-i2c-blue-oled-display-module-4-pin-sh1106
+// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/1-3-i2c-blue-oled-display-module-4-pin-sh1106-manual
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 # 1.3" SH1106 OLED - ESP32 MicroPython Example

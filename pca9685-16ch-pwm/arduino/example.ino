@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/pca9685-16-channel-12-bit-pwm-servo-motor-driver-i2c-for-arduino
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/pca9685-16-channel-12-bit-pwm-servo-motor-driver-i2c-for-arduino-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // PCA9685 - Sweep a servo on channel 0

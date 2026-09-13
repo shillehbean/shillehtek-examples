@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/esp32-s3-devkitc-1-presoldered-headers
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-s3-devkitc-1-presoldered-headers-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // The ESP32-S3 has 14 touch-capable pins: T1-T14 (GPIO1 - GPIO14).

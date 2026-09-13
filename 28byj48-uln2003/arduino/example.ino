@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/shillehtek-5v-4-phase-stepper-motor-with-uln2003-driver
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/shillehtek-5v-4-phase-stepper-motor-with-uln2003-driver-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 28BYJ-48 + ULN2003 - Arduino full revolution example

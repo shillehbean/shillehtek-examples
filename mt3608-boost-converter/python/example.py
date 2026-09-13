@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/mt3608-dc-dc-step-up-boost-converter-2a-adjustable-power-module
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/mt3608-dc-dc-step-up-boost-converter-2a-adjustable-power-module-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 Power balance for a boost converter (assuming 90% efficiency):

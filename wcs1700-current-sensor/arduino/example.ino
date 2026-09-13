@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/wcs1700-70a-hall-current-sensor-module-overcurrent-detect
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/wcs1700-70a-hall-current-sensor-module-overcurrent-detect-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // WCS1700 - Read current in amps on Arduino

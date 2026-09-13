@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/max7219-dot-matrix-led-display-module-8x8-driver-for-arduino
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/max7219-dot-matrix-led-display-module-8x8-driver-for-arduino-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # MAX7219 8x8 - Pico MicroPython

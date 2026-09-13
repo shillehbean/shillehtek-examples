@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/ds18b20-waterproof-digital-temp-sensor-probe-1m-for-arduino-pi
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ds18b20-waterproof-digital-temp-sensor-probe-1m-for-arduino-pi-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // DS18B20 - Read temperature on Arduino

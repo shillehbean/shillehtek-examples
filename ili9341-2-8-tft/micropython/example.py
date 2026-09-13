@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/2-8-spi-tft-lcd-touch-screen-module-240x320-ili9341-for-arduino
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/2-8-spi-tft-lcd-touch-screen-module-240x320-ili9341-for-arduino-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # Install "rdagger/micropython-ili9341" driver to /lib

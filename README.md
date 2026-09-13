@@ -1,16 +1,16 @@
 # ShillehTek Examples
 
-Open-source code examples for ShillehTek pre-soldered IoT modules — Arduino, ESP32, Raspberry Pi.
-Every example links back to the full manual, wiring guide, and product page on [shillehtek.com](https://shillehtek.com).
+Open-source code examples for ShillehTek pre-soldered IoT modules — Arduino, ESP32, Raspberry Pi — plus the code from every [IoT & Beyond](https://shillehtek.com/blogs/news) tutorial.
+Every example links back to the full manual or tutorial, and to the parts on [shillehtek.com](https://shillehtek.com).
 
 ## Modules
 
 | Module | Languages | Buy |
 | --- | --- | --- |
 | [`ssd1306-oled`](./ssd1306-oled/) — SSD1306 OLED | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306) |
-| [`ssd1306-oled`](./ssd1306-oled/) — SSD1306 OLED | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306) |
+| [`ssd1306-oled-white`](./ssd1306-oled-white/) — SSD1306 OLED | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306) |
 | [`sh1106-oled`](./sh1106-oled/) — 1.3" SH1106 OLED | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/1-3-i2c-blue-oled-display-module-4-pin-sh1106) |
-| [`sh1106-oled`](./sh1106-oled/) — 1.3in SH1106 OLED | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/1-3-i2c-white-oled-display-module-4-pin-sh1106) |
+| [`sh1106-oled-white`](./sh1106-oled-white/) — 1.3in SH1106 OLED | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/1-3-i2c-white-oled-display-module-4-pin-sh1106) |
 | [`1-channel-12v-relay`](./1-channel-12v-relay/) — 1-Channel 12V Relay | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/1-channel-12v-relay-module) |
 | [`24v-relay`](./24v-relay/) — 24V Relay Module | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/1-channel-24v-relay-module) |
 | [`1-channel-5v-relay`](./1-channel-5v-relay/) — 1-Channel 5V Relay Board | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/1-channel-5v-relay-module) |
@@ -27,8 +27,8 @@ Every example links back to the full manual, wiring guide, and product page on [
 | [`tm1637-4-digit`](./tm1637-4-digit/) — TM1637 4-Bit LED | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/4-bits-tm1637-red-led-display-module-clock) |
 | [`4-channel-relay`](./4-channel-relay/) — 4-Channel 12V Relay Module | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/4-channel-12v-relay-module) |
 | [`4-channel-24v-relay`](./4-channel-24v-relay/) — 4-Channel 24V Relay Module | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/4-channel-24v-relay-module) |
-| [`4-channel-relay`](./4-channel-relay/) — 4-Channel 5V Relay | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/4-channel-5v-relay-module) |
-| [`4-channel-relay`](./4-channel-relay/) — 4-Channel Relay Module | arduino · raspberry-pi | [shop](https://shillehtek.com/products/4-channel-relay-module-programmable-delay-6-24v) |
+| [`4-channel-5v-relay`](./4-channel-5v-relay/) — 4-Channel 5V Relay | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/4-channel-5v-relay-module) |
+| [`4-channel-delay-relay`](./4-channel-delay-relay/) — 4-Channel Relay Module | arduino · raspberry-pi | [shop](https://shillehtek.com/products/4-channel-relay-module-programmable-delay-6-24v) |
 | [`433mhz-relay`](./433mhz-relay/) — 433MHz Relay | arduino · raspberry-pi | [shop](https://shillehtek.com/products/433mhz-12v-1-channel-relay-module-with-wireless-remote) |
 | [`433mhz-rf-link`](./433mhz-rf-link/) — 433MHz RF Link Kit | arduino · raspberry-pi | [shop](https://shillehtek.com/products/433mhz-rf-wireless-transmitter-receiver-link-kit-for-arduino) |
 | [`4s-30a-bms`](./4s-30a-bms/) — 4S 30A BMS | arduino · esp32 · micropython | [shop](https://shillehtek.com/products/14.8V) |
@@ -128,7 +128,7 @@ Every example links back to the full manual, wiring guide, and product page on [
 | [`stm32f411-black-pill`](./stm32f411-black-pill/) — STM32F411 Black Pill | arduino · micropython | [shop](https://shillehtek.com/products/shillehtek-pre-soldered-authentic-stm32f411ceu6) |
 | [`stm32h723-core`](./stm32h723-core/) — STM32H723ZGT6 Board | arduino | [shop](https://shillehtek.com/products/shillehtek-pre-soldered-stm32h723zgt6-core-development-board) |
 | [`txs0108e-level-shifter`](./txs0108e-level-shifter/) — TXS0108E | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/shillehtek-pre-soldered-txs0108e-high-speed-full-duplex-8-channel-logic-level-bi-directional-converter) |
-| [`blue-pill-stm32f103`](./blue-pill-stm32f103/) — Blue Pill STM32F103C8T6 | arduino | [shop](https://shillehtek.com/products/shillehtek-unsoldered-stm32f103c8t6-blue-pill-arm-development-board-kit-pro-usb-v) |
+| [`blue-pill-stm32f103-unsoldered`](./blue-pill-stm32f103-unsoldered/) — Blue Pill STM32F103C8T6 | arduino | [shop](https://shillehtek.com/products/shillehtek-unsoldered-stm32f103c8t6-blue-pill-arm-development-board-kit-pro-usb-v) |
 | [`soil-moisture-sensor`](./soil-moisture-sensor/) — Soil Moisture Sensor | arduino · esp32 · micropython · python | [shop](https://shillehtek.com/products/soil-moisture-sensor-hygrometer-module-for-arduino-watering-kit) |
 | [`stlink-v2`](./stlink-v2/) — ST-LINK V2 | arduino · raspberry-pi | [shop](https://shillehtek.com/products/st-link-v2-stm8-stm32-programmer-downloader) |
 | [`sx1262-esp32-s3`](./sx1262-esp32-s3/) — SX1262 ESP32-S3 | arduino · esp32 | [shop](https://shillehtek.com/products/sx1262-esp32-s3-0-96-inch-blue-oled-display-bluetooth-wifi-kit-32-module-iot-development-board-for-arduino-w-antenna-868-915mhz-with-soldering-and-foam) |

@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/rp2040-zero-microcontroller-board-presoldered-headers
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/rp2040-zero-microcontroller-board-presoldered-headers-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // RP2040-Zero - external LED blink on GP2

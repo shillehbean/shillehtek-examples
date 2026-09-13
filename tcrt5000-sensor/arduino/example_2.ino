@@ -2,7 +2,7 @@
 //
 // Buy this module: https://shillehtek.com/products/tcrt5000-ir-reflective-line-follower-sensor-for-arduino-robot
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/tcrt5000-ir-reflective-line-follower-sensor-for-arduino-robot-manual
-// More examples: https://github.com/shillehtek/examples
+// More examples: https://github.com/shillehbean/shillehtek-examples
 //
 
 // 3-sensor line follower using three TCRT5000 modules

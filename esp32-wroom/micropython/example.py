@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/esp32-wroom-dev-board-cp2102-usb-c-presoldered
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-wroom-dev-board-cp2102-usb-c-presoldered-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # ESP-WROOM-32 - scan I2C bus for devices

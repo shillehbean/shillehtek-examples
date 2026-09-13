@@ -2,7 +2,7 @@
 #
 # Buy this module: https://shillehtek.com/products/esp32-c3-dev-board-4mb-wifi-presoldered
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-c3-dev-board-4mb-wifi-presoldered-manual
-# More examples: https://github.com/shillehtek/examples
+# More examples: https://github.com/shillehbean/shillehtek-examples
 #
 
 # ESP32-C3 - Scan the I2C bus for devices (MicroPython)
