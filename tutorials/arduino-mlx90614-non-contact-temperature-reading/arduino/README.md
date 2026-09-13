@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`mlx90614_read.ino`](./mlx90614_read.ino) — Initializes the MLX90614 sensor over I2C and prints ambient and object temperatures (in °C) to the serial console every 500 ms.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-mlx90614-non-contact-temperature-reading)  
+Parts used: [MLX90614 Pre-Soldered IR Temperature Sensor Module for Arduino & Raspberry Pi](https://shillehtek.com/products/pre-soldered-gy-906-mlx90614-baa-infrared-temperature-sensor) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [SSD1306 0.96" Blue I2C OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306) · [SSD1306 0.96" I2C White OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306) · [1.3" I2C Blue OLED Display Module 4-Pin SH1106](https://shillehtek.com/products/1-3-i2c-blue-oled-display-module-4-pin-sh1106) · [1.3" I2C White OLED Display Module 4-Pin SH1106](https://shillehtek.com/products/1-3-i2c-white-oled-display-module-4-pin-sh1106)

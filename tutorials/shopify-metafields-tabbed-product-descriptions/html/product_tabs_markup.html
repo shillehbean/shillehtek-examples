@@ -1,0 +1,35 @@
+<!--
+  Static HTML markup for a three-tab product description interface (Description, Features, Documents).
+
+  Full tutorial: https://shillehtek.com/blogs/news/shopify-metafields-tabbed-product-descriptions
+  Shop parts: https://shillehtek.com
+  More examples: https://github.com/shillehbean/shillehtek-examples
+
+-->
+
+<div class="description">
+  <div class="col-tabs">
+    <ul class="nav nav-tabs" role="tablist">
+      <li role="presentation" class="active">
+        <a href="#description-tab" aria-controls="description-tab" role="tab" data-toggle="tab" aria-expanded="true">Description</a>
+      </li>
+      <li role="presentation">
+        <a href="#features-tab" aria-controls="features-tab" role="tab" data-toggle="tab" aria-expanded="false">Features</a>
+      </li>
+      <li role="presentation">
+        <a href="#documents-tab" aria-controls="documents-tab" role="tab" data-toggle="tab" aria-expanded="false">Documents</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <div role="tabpanel" class="tab-pane fade active in" id="description-tab">
+        <p>Example product description content here. Detailed information about the product.</p>
+      </div>
+      <div role="tabpanel" class="tab-pane fade" id="features-tab">
+        <p>Features include enhanced durability, multiple color options, and eco-friendly materials.</p>
+      </div>
+      <div role="tabpanel" class="tab-pane fade" id="documents-tab">
+        <p>Download product manuals and warranty information in this section.</p>
+      </div>
+    </div>
+  </div>
+</div>

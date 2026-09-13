@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`nano_ky040_oled_menu.ino`](./nano_ky040_oled_menu.ino) — Arduino sketch that reads a KY-040 rotary encoder (CLK, DT, SW) and drives an SSD1306 OLED to display a scrollable menu and handle selections.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-ky-040-oled-menu-ui)  
+Parts used: [KY-040 Pre-Soldered Rotary Encoder Module for Arduino with Demo Code](https://shillehtek.com/products/ky-040-rotary-encoder-module-for-arduino-with-demo-code) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [SSD1306 0.96" Blue I2C OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306) · [SSD1306 0.96" I2C White OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306)

@@ -146,6 +146,10 @@ Every example links back to the full manual or tutorial, and to the parts on [sh
 
 _136 module(s). Last verified: see commit history._
 
+## Tutorials
+
+Code from 282 IoT & Beyond tutorial(s) — projects that combine several parts (GPS, cameras, displays, cloud, Node.js, and more). See [`tutorials/`](./tutorials/) for the full index.
+
 ## License
 
 MIT. See [LICENSE](./LICENSE).

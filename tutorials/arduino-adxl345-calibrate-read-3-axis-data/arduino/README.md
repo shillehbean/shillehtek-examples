@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`adxl345_calibrate_read.ino`](./adxl345_calibrate_read.ino) — Arduino sketch that configures the ADXL345 over I2C, reads X/Y/Z acceleration values, and provides a calibration routine to compute axis offsets.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-adxl345-calibrate-read-3-axis-data)  
+Parts used: [ADXL345 Pre-Soldered Accelerometer Sensor for Arduino, Raspberry Pi & Klipper](https://shillehtek.com/products/shillehtek-adxl345-pre-soldered) · [ADXL345 Pre-Soldered 3-Axis Accelerometer Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-adxl345-pre-soldered-3-axis-digital-angle-acceleration-sensor-module) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [120pcs 10cm Jumper Wire Set M-F, M-M, F-F for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire) · [400-Point Small Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-400-point-breadboard) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers)

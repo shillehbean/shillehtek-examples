@@ -1,0 +1,7 @@
+# Arduino examples
+
+- [`rtc_set_compiletime.ino`](./rtc_set_compiletime.ino) — Initializes the DS3231 realtime clock and sets its time to the sketch compile time.
+- [`alarm_oled_buzzer.ino`](./alarm_oled_buzzer.ino) — Displays the current time on an SSD1306 OLED, shows alarm time/status, checks the DS3231 for the alarm time, and rings a buzzer when the alarm condition is met (includes button inputs for setting mode).
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-ds3231-rtc-alarm-clock-oled)  
+Parts used: [DS3231 AT24C32 Precision RTC I2C Module with CR2032 Battery](https://shillehtek.com/products/ds3231-at24c32-iic-module-precision-rtc-module-with-cr2032-battery) · [SSD1306 0.96" Blue I2C OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306) · [KY-006 Passive Piezo Buzzer Module for Arduino](https://shillehtek.com/products/ky-006-passive-piezo-buzzer-alarm-module-for-arduino-projects) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [400-Point Small Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-400-point-breadboard) · [1-Channel 5V Relay Board for Arduino & Raspberry Pi](https://shillehtek.com/products/1-channel-5v-relay-module)

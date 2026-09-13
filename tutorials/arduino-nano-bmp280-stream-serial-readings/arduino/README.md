@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`bmp280_stream.ino`](./bmp280_stream.ino) — Reads temperature, pressure, and altitude from a BMP280 over I2C and prints the values to the Serial Monitor once per second.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-bmp280-stream-serial-readings)  
+Parts used: [BMP280 Pre-Soldered Pressure & Temperature Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-bmp280-pre-soldered) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [BMP180 Pre-Soldered Pressure & Temperature Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-bmp180-pre-soldered) · [DHT22 Temperature & Humidity Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-dht22-with-cables) · [SSD1306 0.96" Blue I2C OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306) · [SSD1306 0.96" I2C White OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306)

@@ -1,0 +1,7 @@
+# Esp32 examples
+
+- [`esp32_gps_lora_transmitter.ino`](./esp32_gps_lora_transmitter.ino) — Reads NMEA data from a NEO-6M GPS on Serial2, parses latitude/longitude with TinyGPS++, and transmits comma-separated coordinates over LoRa every 10 seconds.
+- [`esp32_lora_receiver.ino`](./esp32_lora_receiver.ino) — Initializes the SX1262 LoRa radio as a receiver, waits for incoming packets, and prints received latitude/longitude strings to the serial console for use at a base station.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/esp32-neo-6m-sx1262-no-sim-gps-tracker)  
+Parts used: [GT-U7 NEO-6M GPS Module Pre-Soldered for Arduino & Raspberry Pi](https://shillehtek.com/products/gt-u7-gps-module-presoldered-1) · [SX1262 ESP32-S3 0.96" Blue OLED Bluetooth & WiFi Development Board for Arduino, 868-915MHz, with Antenna, Pre-Soldered](https://shillehtek.com/products/sx1262-esp32-s3-0-96-inch-blue-oled-display-bluetooth-wifi-kit-32-module-iot-development-board-for-arduino-w-antenna-868-915mhz-with-soldering-and-foam) · [TP4056 1A 3.7-4.2V LiPo Battery Charging Board with Micro USB & Current Protection](https://shillehtek.com/products/18650-tp4056-1a-3-7-4-2v-lipo-battery-charging-board-micro-usb-with-current-protection) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [ADXL345 Pre-Soldered Accelerometer Sensor for Arduino, Raspberry Pi & Klipper](https://shillehtek.com/products/shillehtek-adxl345-pre-soldered)

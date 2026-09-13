@@ -1,0 +1,7 @@
+# Arduino examples
+
+- [`hello_keyboard.ino`](./hello_keyboard.ino) — Sends a single USB keyboard string at startup using the Arduino Keyboard HID library.
+- [`matrix_numpad.ino`](./matrix_numpad.ino) — Scans a 4x4 matrix keypad and sends the corresponding character over USB HID when a key is pressed.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/seeeduino-xiao-samd21-usb-hid-macro-numpad)  
+Parts used: [Seeeduino XIAO SAMD21 Arduino Board Pre-Soldered](https://shillehtek.com/products/seeeduino-xiao-samd21-arduino-board-presoldered) · [4x4 Membrane Matrix Keypad 16-Key Switch Module for Arduino & Raspberry Pi](https://shillehtek.com/products/4x4-membrane-matrix-keypad-16-key-switch-module-for-arduino-diy) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [Pro Micro ATmega32U4 5V 16MHz Pre-Soldered Micro-USB Development Board](https://shillehtek.com/products/pro-micro-atmega32u4-5v-16mhz-presoldered-micro-usb) · [XIAO ESP32S3 Pre-Soldered Microcontroller with WiFi & Bluetooth for Arduino & MicroPython](https://shillehtek.com/products/xiao-seeed-esp32s3-pre-soldered-with-usb-c-cable) · [XIAO ESP32C3 Pre-Soldered WiFi + BLE Microcontroller for Arduino & MicroPython](https://shillehtek.com/products/xiao-seeed-esp32c3-pre-soldered-with-usb-to-usb-c-cable) · [Black USB-C Cable 2A 0.5m](https://shillehtek.com/products/black-type-c-usb-cable-2a-0-5m)

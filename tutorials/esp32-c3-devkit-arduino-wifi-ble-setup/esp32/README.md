@@ -1,0 +1,8 @@
+# Esp32 examples
+
+- [`blink_esp32c3.ino`](./blink_esp32c3.ino) — Blink the on-board LED and print a greeting on the serial console to verify the ESP32-C3 board and basic I/O/serial functionality.
+- [`wifi_scan_esp32c3.ino`](./wifi_scan_esp32c3.ino) — Scan for nearby WiFi networks in station mode and print each network's SSID and RSSI to the serial console.
+- [`ble_notify_esp32c3.ino`](./ble_notify_esp32c3.ino) — Create a BLE GATT server that advertises a service with a notify characteristic and periodically sends a counter string as notifications.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/esp32-c3-devkit-arduino-wifi-ble-setup)  
+Parts used: [XIAO ESP32C3 Pre-Soldered WiFi + BLE Microcontroller for Arduino & MicroPython](https://shillehtek.com/products/xiao-seeed-esp32c3-pre-soldered-with-usb-to-usb-c-cable) · [ESP32-C6 Pre-Soldered XIAO Seeed Development Board with USB-C Cable for Arduino & MicroPython](https://shillehtek.com/products/xiao-seeed-esp32c6-pre-soldered-with-usb-c-cable) · [ESP-WROOM-32 (ESP-32S) ESP32 Dev Board CP2102 USB-C Pre-Soldered](https://shillehtek.com/products/esp32-wroom-dev-board-cp2102-usb-c-presoldered) · [DHT22 Temperature & Humidity Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-dht22-with-cables) · [TP4056 1A LiPo Battery Charging Board with Type-C and Current Protection (5pcs)](https://shillehtek.com/products/tp4056-1a-lipo-battery-charging-board-type-c-with-current-protection) · [18650 Battery Holder Box with Wire (No Cover)](https://shillehtek.com/products/1-x-18650-battery-holder-box-with-wire-no-cover) · [Black USB-C Cable 2A 0.5m](https://shillehtek.com/products/black-type-c-usb-cable-2a-0-5m)

@@ -1,0 +1,7 @@
+# Circuitpython examples
+
+- [`example_1.py`](./example_1.py) — Main CircuitPython script to control the ArduCAM OV2640, set JPEG resolution, toggle the onboard LED, and save captured JPEG data into /images on the Pico filesystem.
+- [`boot.py`](./boot.py) — Boot-time configuration to enable the USB serial REPL and remount the internal flash filesystem read-write so the script can create and write files.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/raspberry-pi-pico-2w-arducam-ov2640-capture-jpegs)  
+Parts used: [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [120pcs 10cm Jumper Wire Set M-F, M-M, F-F for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [400-Point Small Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-400-point-breadboard) · [MB102 Breadboard Power Supply Module 3.3V/5V for Arduino](https://shillehtek.com/products/shillehtek-universal-power-supply-module) · [Raspberry Pi Pico 2W with Pre-Soldered Headers](https://shillehtek.com/products/raspberry-pi-pico-2w-presoldered-headers)

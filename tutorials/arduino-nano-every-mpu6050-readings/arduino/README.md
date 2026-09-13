@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`mpu6050_demo.ino`](./mpu6050_demo.ino) — Initializes the Adafruit MPU6050, configures accelerometer and gyro ranges, and prints sensor readings to the serial console.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-every-mpu6050-readings)  
+Parts used: [MPU6050 Pre-Soldered IMU Accelerometer Sensor 2-Pack for Arduino](https://shillehtek.com/products/mpu-6050-pre-soldered-6-dof-accelerometer) · [MPU6050 GY-521 V2 Unsoldered IMU Accelerometer & Gyroscope Sensor for Arduino](https://shillehtek.com/products/shillehtek-mpu-6050-module-gy-521-module-unsoldered-version) · [120pcs 10cm Jumper Wire Set M-F, M-M, F-F for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [400-Point Small Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-400-point-breadboard) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers)

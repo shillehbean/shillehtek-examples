@@ -1,0 +1,6 @@
+# Micropython examples
+
+- [`bmp280_pico_i2c.py`](./bmp280_pico_i2c.py) — Initializes I2C on a Raspberry Pi Pico, creates a BMP280 sensor object, and prints temperature and pressure readings once per second.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/raspberry-pi-pico-bmp280-temperature-pressure)  
+Parts used: [BMP280 Pre-Soldered Pressure & Temperature Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-bmp280-pre-soldered) · [120pcs 10cm Jumper Wire Set M-F, M-M, F-F for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [400-Point Small Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-400-point-breadboard) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [Raspberry Pi Pico 2W with Pre-Soldered Headers](https://shillehtek.com/products/raspberry-pi-pico-2w-presoldered-headers)

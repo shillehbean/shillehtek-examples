@@ -1,0 +1,15 @@
+# Arduino MAX30102: Stream Heart Rate to Serial
+
+This tutorial shows how to build an Arduino-based pulse oximeter using the MAX30102/MAX30105 sensor and stream live heart-rate (BPM) readings to the Serial Monitor over I2C. The code in this folder reads IR data from the sensor, detects heart beats, computes instantaneous BPM and a small rolling average, and prints IR, BPM, and average values to Serial.
+
+**Read the full tutorial:** [Arduino MAX30102: Stream Heart Rate to Serial](https://shillehtek.com/blogs/news/arduino-max30102-stream-heart-rate-serial)  
+**Parts used:** [MAX30102 Pre-Soldered Heart Rate & Pulse Oximeter Sensor Module](https://shillehtek.com/products/max30102-heart-rate-pulse-oximeter-sensor-module-black-presoldered) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [SSD1306 0.96" Blue I2C OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306) · [ESP32 Dev Board 4MB CP2102 USB-C Pre-Soldered 38-Pin](https://shillehtek.com/products/esp32-dev-board-cp2102-type-c-4mb) · [MPU6050 Pre-Soldered IMU Accelerometer Sensor 2-Pack for Arduino](https://shillehtek.com/products/mpu-6050-pre-soldered-6-dof-accelerometer)
+
+![Arduino MAX30102: Stream Heart Rate to Serial](https://shillehtek.com/cdn/shop/articles/blog-thumbnail-626132943135.png?v=1778454080)
+
+## Examples in this folder
+
+- [`arduino/`](./arduino/) — 1 sample(s)
+
+---
+_Generated from [https://shillehtek.com/blogs/news/arduino-max30102-stream-heart-rate-serial](https://shillehtek.com/blogs/news/arduino-max30102-stream-heart-rate-serial). Last verified: see commit history._

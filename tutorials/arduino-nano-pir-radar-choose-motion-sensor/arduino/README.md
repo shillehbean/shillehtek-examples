@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`arduino_motion_test.ino`](./arduino_motion_test.ino) — Reads a digital motion sensor input, sets the onboard LED to the sensor state, and prints motion events to the serial console every 100 ms.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-pir-radar-choose-motion-sensor)  
+Parts used: [HC-SR501 PIR Motion Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-hc-sr501-pir-motion-sensor-module) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [RCWL-0516 Microwave Doppler Radar Motion Sensor Module](https://shillehtek.com/products/rcwl-0516-microwave-doppler-radar-motion-sensor-module) · [1-Channel 5V Relay Board for Arduino & Raspberry Pi](https://shillehtek.com/products/1-channel-5v-relay-module) · [ESP8266 D1 Mini V3 4MB Pre-Soldered Dev Board for Arduino](https://shillehtek.com/products/esp8266-d1-mini-v3-4mb-dev-board-presoldered) · [HLK-2410B Human Presence Radar Motion Detection Module (Pre-Soldered)](https://shillehtek.com/products/hlk-2410b-human-presence-radar-motion-detection-module-pre-soldered) · [HLK-2410C Human Presence Radar Motion Detection Module (Pre-Soldered)](https://shillehtek.com/products/hlk-2410c-human-presence-radar-motion-detection-module-pre-soldered)

@@ -1,0 +1,23 @@
+# ESPHome configuration that sets up the UART for the LD2410 radar and exposes a binary_sensor named 'Office Presence'.
+#
+# Full tutorial: https://shillehtek.com/blogs/news/esp32-ld2410-smart-light-presence-sensing
+# Parts used: https://shillehtek.com/products/hlk-ld2450-24ghz-mmwave-radar-human-body-tracking-sensor-module
+#             https://shillehtek.com/products/hlk-2410c-human-presence-radar-motion-detection-module-pre-soldered
+#             https://shillehtek.com/products/hlk-2410b-human-presence-radar-motion-detection-module-pre-soldered
+# More examples: https://github.com/shillehbean/shillehtek-examples
+#
+
+esphome:
+  name: presence-light
+
+uart:
+  rx_pin: GPIO16
+  tx_pin: GPIO17
+  baud_rate: 256000
+
+ld2410:
+
+binary_sensor:
+  - platform: ld2410
+    has_target:
+      name: "Office Presence"

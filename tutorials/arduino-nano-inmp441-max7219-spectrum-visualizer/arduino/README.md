@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`spectrum_visualizer.ino`](./spectrum_visualizer.ino) — Samples an analog microphone, runs an FFT on the samples, and displays frequency-band bars on a MAX7219 32x8 LED matrix.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-inmp441-max7219-spectrum-visualizer)  
+Parts used: [INMP441 Pre-Soldered I2S Omnidirectional Microphone Module](https://shillehtek.com/products/inmp441-i2s-omnidirectional-microphone-module-with-soldering) · [MAX7219 4-in-1 Dot Matrix Display Module (Red)](https://shillehtek.com/products/max7219-4-in-1-dot-matrix-display-module-red) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [ESP32 Dev Board 4MB CP2102 USB-C Pre-Soldered 38-Pin](https://shillehtek.com/products/esp32-dev-board-cp2102-type-c-4mb) · [WS2812B Non-Waterproof SMD LED Strip 60 LED/Meter Flexible 5M Roll 5V IP30](https://shillehtek.com/products/non-waterproof-ws2812b-smd-led-strip-60-led-meter-flexible-5m-roll-5v-ip30) · [HM-10 Bluetooth 4.0 BLE CC2541 Master/Slave Module for Arduino](https://shillehtek.com/products/hm-10-bluetooth-4-0-ble-cc2541-master-slave-module-for-arduino)

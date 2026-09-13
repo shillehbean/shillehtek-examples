@@ -1,0 +1,6 @@
+# Micropython examples
+
+- [`pico_bmp180_read.py`](./pico_bmp180_read.py) — Reads temperature, pressure, and altitude from a BMP180 over I2C on a Pico W, converts temperature to Fahrenheit, and prints the values in a loop.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/pico-w-bmp180-pressure-temperature-altitude)  
+Parts used: [BMP180 Pre-Soldered Pressure & Temperature Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-bmp180-pre-soldered) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [120pcs 10cm Jumper Wire Set M-F, M-M, F-F for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [400-Point Small Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-400-point-breadboard) · [MB102 Breadboard Power Supply Module 3.3V/5V for Arduino](https://shillehtek.com/products/shillehtek-universal-power-supply-module) · [Raspberry Pi Pico 2W with Pre-Soldered Headers](https://shillehtek.com/products/raspberry-pi-pico-2w-presoldered-headers)

@@ -1,0 +1,6 @@
+# Esp32 examples
+
+- [`esp8266_sw420_alarm.ino`](./esp8266_sw420_alarm.ino) — ESP8266/ESP32 Arduino-framework sketch that runs a simple HTTP server, monitors an SW-420 vibration sensor with pulseIn, logs events, and toggles an alarm/LED via /start/1 and /stop/0 HTTP endpoints.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/esp8266-sw-420-wifi-fish-bite-alarm)  
+Parts used: [SW-420 Vibration Sensor Module for Arduino](https://shillehtek.com/products/vibration-sensor-sw-420-arduino-module) · [ESP8266 D1 Mini V3 4MB Pre-Soldered Dev Board for Arduino](https://shillehtek.com/products/esp8266-d1-mini-v3-4mb-dev-board-presoldered) · [ESP8266 NodeMCU Development Board with 0.96 Inch OLED Display, Type-C, Pre-Soldered with Foam](https://shillehtek.com/products/nodemcu-esp8266-development-board-with-0-96-inch-oled-display-type-c-with-soldering-and-foam) · [5x7cm Copper Prototype PCB Board 3-Pack for Arduino & Pi DIY Electronics](https://shillehtek.com/products/shillehtek-prototype-paper-copper-pcb-universal-experiment-matrix-circuit-board-5x7cm-3pcs) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [2x18650 Lithium Battery Shield V8 5V/3A for ESP32 and Arduino](https://shillehtek.com/products/2x18650-battery-shield-v8-5v-3a-esp32-arduino)

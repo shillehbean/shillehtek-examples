@@ -1,0 +1,6 @@
+# Bash examples
+
+- [`setup.sh`](./setup.sh) — Installs the system I2C support and the Python mpu6050-raspberrypi library required to read data from the MPU6050 on a Raspberry Pi.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/raspberry-pi-4-mpu6050-python-readings)  
+Parts used: [MPU6050 Pre-Soldered IMU Accelerometer Sensor 2-Pack for Arduino](https://shillehtek.com/products/mpu-6050-pre-soldered-6-dof-accelerometer) · [MPU6050 GY-521 V2 Unsoldered IMU Accelerometer & Gyroscope Sensor for Arduino](https://shillehtek.com/products/shillehtek-mpu-6050-module-gy-521-module-unsoldered-version) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [120pcs 10cm Jumper Wire Set M-F, M-M, F-F for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [400-Point Small Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-400-point-breadboard)

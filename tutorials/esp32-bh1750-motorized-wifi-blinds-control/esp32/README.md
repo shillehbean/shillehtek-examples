@@ -1,0 +1,6 @@
+# Esp32 examples
+
+- [`esp32_bh1750_blinds.ino`](./esp32_bh1750_blinds.ino) — Hosts a simple web server on an ESP32 to control a 28BYJ‑48 stepper (via ULN2003) and reads ambient light from a BH1750; provides /up and /down endpoints to move the blinds.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/esp32-bh1750-motorized-wifi-blinds-control)  
+Parts used: [ULN2003 5V 4-Phase Stepper Motor with Driver Board for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-5v-4-phase-stepper-motor-with-uln2003-driver) · [ESP-WROOM-32 (ESP-32S) ESP32 Dev Board CP2102 USB-C Pre-Soldered](https://shillehtek.com/products/esp32-wroom-dev-board-cp2102-usb-c-presoldered) · [BH1750 Pre-Soldered Digital Light Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-gy-302-bh1750-pre-soldered-light-intensity-module) · [DS3231 AT24C32 Precision RTC I2C Module with CR2032 Battery](https://shillehtek.com/products/ds3231-at24c32-iic-module-precision-rtc-module-with-cr2032-battery) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers)

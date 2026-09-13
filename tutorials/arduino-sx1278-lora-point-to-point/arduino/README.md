@@ -1,0 +1,7 @@
+# Arduino examples
+
+- [`lora_sender.ino`](./lora_sender.ino) — Simple LoRa sender sketch that transmits incrementing 'hello <n>' packets every 5 seconds at 433 MHz.
+- [`lora_receiver_oled.ino`](./lora_receiver_oled.ino) — LoRa receiver sketch that initializes an SSD1306 OLED, listens for incoming LoRa packets at 433 MHz, toggles an LED and displays received messages (and RSSI/metadata) on the OLED.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-sx1278-lora-point-to-point)  
+Parts used: [Ra-02 SX1278 LoRa 433MHz Wireless Transceiver Module for Arduino, ESP32, STM32 & Raspberry Pi](https://shillehtek.com/products/sx1278-lora-433mhz-transceiver-module) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [SSD1306 0.96" Blue I2C OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306) · [Pre-Soldered I2C Logic Level Converter 3.3V-5V Bi-Directional for Arduino, Raspberry Pi, ESP32 & Pico](https://shillehtek.com/products/shillehtek-iic-i2c-logic-level-converter-pre-soldered) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [400-Point Small Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-400-point-breadboard)

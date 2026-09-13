@@ -1,0 +1,6 @@
+# Yaml examples
+
+- [`bedroom_radar_esphome.yml`](./bedroom_radar_esphome.yml) — ESPHome configuration for an ESP32 that reads the LD2410 radar over UART and exposes a binary 'Bedroom Occupied' sensor plus distance and energy sensors for Home Assistant.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/esp32-hlk-ld2410-bedroom-occupancy)  
+Parts used: [HLK-2410C Human Presence Radar Motion Detection Module (Pre-Soldered)](https://shillehtek.com/products/hlk-2410c-human-presence-radar-motion-detection-module-pre-soldered) · [HLK-2410B Human Presence Radar Motion Detection Module (Pre-Soldered)](https://shillehtek.com/products/hlk-2410b-human-presence-radar-motion-detection-module-pre-soldered) · [LD1125H 24GHz mmWave Human Presence Radar Sensor Module (Pre-Soldered)](https://shillehtek.com/products/ld1125h-24ghz-mmwave-human-presence-radar-sensor-module) · [ESP-WROOM-32 (ESP-32S) ESP32 Dev Board CP2102 USB-C Pre-Soldered](https://shillehtek.com/products/esp32-wroom-dev-board-cp2102-usb-c-presoldered) · [1-Channel 5V Relay Board for Arduino & Raspberry Pi](https://shillehtek.com/products/1-channel-5v-relay-module) · [HLK-LD2450 24GHz mmWave Radar Human Body Tracking Sensor Module (Pre-Soldered)](https://shillehtek.com/products/hlk-ld2450-24ghz-mmwave-radar-human-body-tracking-sensor-module)

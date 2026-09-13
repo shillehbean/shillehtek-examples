@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`rfid_cat_door.ino`](./rfid_cat_door.ino) — Reads RFID tags with an RC522 module and actuates a servo to unlock the cat door for UIDs listed as allowed.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-rc522-rfid-unlock-cat-door)  
+Parts used: [RC522 RFID Reader Writer Module 13.56MHz SPI Kit for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/rc522-rfid-reader-writer-module-13-56mhz-spi-kit-for-arduino) · [MG995 Metal Gear Servo Motor 12kg High Torque 180 Degree](https://shillehtek.com/products/mg995-metal-gear-servo-motor-12kg-high-torque-180-degree-diy) · [13.56MHz RFID Key Fob Tag with S50 IC ISO14443A Access Control Token](https://shillehtek.com/products/13-56mhz-rfid-key-fob-tag-ic-s50-token-iso14443a-access-control) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [Micro SD TF Card Adapter Reader Module SPI Interface for Arduino](https://shillehtek.com/products/micro-sd-tf-card-adapter-reader-module-spi-interface-for-arduino) · [ESP32 Dev Board 4MB CP2102 USB-C Pre-Soldered 38-Pin](https://shillehtek.com/products/esp32-dev-board-cp2102-type-c-4mb)

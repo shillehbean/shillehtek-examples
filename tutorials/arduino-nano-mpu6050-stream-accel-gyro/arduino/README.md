@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`mpu6050_stream.ino`](./mpu6050_stream.ino) — Reads accelerometer and gyroscope events from an MPU6050 using the Adafruit_MPU6050 library and prints the values over Serial at 10 Hz.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-mpu6050-stream-accel-gyro)  
+Parts used: [MPU6050 Pre-Soldered IMU Accelerometer Sensor 2-Pack for Arduino](https://shillehtek.com/products/mpu-6050-pre-soldered-6-dof-accelerometer) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [L298N Motor Driver Board for Arduino & Raspberry Pi DC and Stepper Motors](https://shillehtek.com/products/shillehtek-l298n-motor-driver-controller-board) · [HX711 Pre-Soldered Large Load Cell Amplifier Module for Arduino](https://shillehtek.com/products/hx711-weighing-pressure-sensor-module-large-presoldered) · [HM-10 Bluetooth 4.0 BLE CC2541 Master/Slave Module for Arduino](https://shillehtek.com/products/hm-10-bluetooth-4-0-ble-cc2541-master-slave-module-for-arduino)

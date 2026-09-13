@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`hx711_scale_calibration.ino`](./hx711_scale_calibration.ino) — Reads weight from an HX711 load cell, tares at startup, and prints calibrated gram measurements over Serial for calibration and monitoring.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-hx711-load-cell-digital-scale)  
+Parts used: [HX711 Pre-Soldered Large Load Cell Amplifier Module for Arduino](https://shillehtek.com/products/hx711-weighing-pressure-sensor-module-large-presoldered) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [SSD1306 0.96" Blue I2C OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306) · [SSD1306 0.96" I2C White OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306) · [1-Channel 5V Relay Board for Arduino & Raspberry Pi](https://shillehtek.com/products/1-channel-5v-relay-module)

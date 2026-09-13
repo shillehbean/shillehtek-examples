@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`mcp2515_can_obd_reader.ino`](./mcp2515_can_obd_reader.ino) — Reads CAN frames from an MCP2515 via SPI and prints message ID, length, and data bytes to Serial (suitable for capturing raw OBD-II frames).
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-mcp2515-can-bus-read-obd2-frames)  
+Parts used: [MCP2515 Pre-Soldered CAN Bus Module with TJA1050 SPI Interface](https://shillehtek.com/products/mcp2515-can-bus-module-tja1050-receiver-spi) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [Micro SD TF Card Adapter Reader Module SPI Interface for Arduino](https://shillehtek.com/products/micro-sd-tf-card-adapter-reader-module-spi-interface-for-arduino) · [ESP32 Dev Board 4MB CP2102 USB-C Pre-Soldered 38-Pin](https://shillehtek.com/products/esp32-dev-board-cp2102-type-c-4mb) · [SSD1306 0.96" Blue I2C OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306)

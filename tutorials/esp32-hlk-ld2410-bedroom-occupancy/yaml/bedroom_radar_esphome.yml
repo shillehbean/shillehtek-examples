@@ -1,0 +1,35 @@
+# ESPHome configuration for an ESP32 that reads the LD2410 radar over UART and exposes a binary 'Bedroom Occupied' sensor plus distance and energy sensors for Home Assistant.
+#
+# Full tutorial: https://shillehtek.com/blogs/news/esp32-hlk-ld2410-bedroom-occupancy
+# Parts used: https://shillehtek.com/products/hlk-2410c-human-presence-radar-motion-detection-module-pre-soldered
+#             https://shillehtek.com/products/hlk-2410b-human-presence-radar-motion-detection-module-pre-soldered
+#             https://shillehtek.com/products/ld1125h-24ghz-mmwave-human-presence-radar-sensor-module
+# More examples: https://github.com/shillehbean/shillehtek-examples
+#
+
+esphome:
+  name: bedroom-radar
+
+uart:
+  rx_pin: GPIO16
+  tx_pin: GPIO17
+  baud_rate: 256000
+
+ld2410:
+  throttle: 1500ms
+
+binary_sensor:
+  - platform: ld2410
+    has_target:
+      name: "Bedroom Occupied"
+
+sensor:
+  - platform: ld2410
+    moving_distance:
+      name: "Moving Distance"
+    still_distance:
+      name: "Still Distance"
+    moving_energy:
+      name: "Moving Energy"
+    still_energy:
+      name: "Still Energy"

@@ -1,0 +1,6 @@
+# Micropython examples
+
+- [`picow_bme280_azure.py`](./picow_bme280_azure.py) — MicroPython script for Raspberry Pi Pico W that connects to Wi‑Fi, reads BME280 sensor values, and sends JSON telemetry to Azure IoT Hub using an HTTP POST with a SAS token.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/raspberry-pi-pico-w-bme280-azure-iot-pipeline)  
+Parts used: [BME280 Pre-Soldered Temperature, Pressure & Humidity Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/bme280-pre-soldered-atmospheric-temperature-pressure-and-humidity-sensor) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [120pcs 10cm Jumper Wire Set M-F, M-M, F-F for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [400-Point Small Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-400-point-breadboard) · [Raspberry Pi Pico 2W with Pre-Soldered Headers](https://shillehtek.com/products/raspberry-pi-pico-2w-presoldered-headers)

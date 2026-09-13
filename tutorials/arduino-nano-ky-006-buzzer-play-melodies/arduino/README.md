@@ -1,0 +1,7 @@
+# Arduino examples
+
+- [`play_a4_tone.ino`](./play_a4_tone.ino) — Plays a single 440 Hz (A4) tone for one second on a KY-006 buzzer connected to pin 8 using tone() in setup().
+- [`twinkle_twinkle_opening.ino`](./twinkle_twinkle_opening.ino) — Plays the opening phrase of "Twinkle Twinkle" by iterating arrays of note frequencies and durations, using tone(), delay(), and noTone() on pin 8.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-ky-006-buzzer-play-melodies)  
+Parts used: [KY-006 Passive Piezo Buzzer Module for Arduino](https://shillehtek.com/products/ky-006-passive-piezo-buzzer-alarm-module-for-arduino-projects) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [HC-SR501 PIR Motion Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-hc-sr501-pir-motion-sensor-module) · [KY-037 Sound Sensor Module for Arduino & ESP32](https://shillehtek.com/products/shillehtek-ky-037-sound-sensor-module) · [SSD1306 0.96" Blue I2C OLED Display Module 4-Pin for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/0-96-i2c-blue-oled-display-module-4-pin-ssd1306)

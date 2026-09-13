@@ -1,0 +1,6 @@
+# Micropython examples
+
+- [`pico_led_blink.py`](./pico_led_blink.py) — Blink the Raspberry Pi Pico W onboard LED on the 'LED' pin with 0.2 second on/off intervals to verify power and wiring.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/raspberry-pi-pico-w-mb102-reliable-breadboard-power)  
+Parts used: [MB102 Breadboard Power Supply Module 3.3V/5V for Arduino](https://shillehtek.com/products/shillehtek-universal-power-supply-module) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [120pcs 10cm Jumper Wire Set M-F, M-M, F-F for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [400-Point Small Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-400-point-breadboard) · [Raspberry Pi Pico 2W with Pre-Soldered Headers](https://shillehtek.com/products/raspberry-pi-pico-2w-presoldered-headers)

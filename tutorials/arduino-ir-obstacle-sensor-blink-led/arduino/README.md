@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`ir_obstacle_blink.ino`](./ir_obstacle_blink.ino) — Reads a digital IR obstacle sensor, turns the built-in LED on when an obstacle is detected (active LOW), and sends a serial message.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-ir-obstacle-sensor-blink-led)  
+Parts used: [IR Infrared Obstacle Avoidance Sensor Module for Arduino & ESP32](https://shillehtek.com/products/ir-infrared-obstacle-avoidance-sensor-module-for-arduino-robot) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [HC-SR04 Ultrasonic Distance Sensor Module 4-Pin for Arduino & Raspberry Pi](https://shillehtek.com/products/hc-sr04-ultrasonic-distance-sensor-module-4-pin-for-arduino) · [VL53L0X Pre-Soldered Laser Ranging ToF Sensor Module](https://shillehtek.com/products/gy-vl53l0xv2-laser-ranging-tof-sensor-module) · [L298N Motor Driver Board for Arduino & Raspberry Pi DC and Stepper Motors](https://shillehtek.com/products/shillehtek-l298n-motor-driver-controller-board) · [HC-SR501 PIR Motion Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-hc-sr501-pir-motion-sensor-module)

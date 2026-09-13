@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`relay_npn_examples.ino`](./relay_npn_examples.ino) — Arduino snippets showing wiring and control for an active‑LOW 5V relay and for an NPN transistor (including PWM) using digital pin 7.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-relay-mosfet-choose-right-switch)  
+Parts used: [1-Channel 5V Relay Board for Arduino & Raspberry Pi](https://shillehtek.com/products/1-channel-5v-relay-module) · [2-Channel 5V Relay Module for Arduino & Raspberry Pi](https://shillehtek.com/products/2-channel-5v-relay-module) · [4-Channel 5V Relay Module for Arduino & Raspberry Pi](https://shillehtek.com/products/4-channel-5v-relay-module) · [8-Channel 5V Relay Module for Arduino & Raspberry Pi](https://shillehtek.com/products/8-channel-5v-relay-module) · [L298N Motor Driver Board for Arduino & Raspberry Pi DC and Stepper Motors](https://shillehtek.com/products/shillehtek-l298n-motor-driver-controller-board) · [Arduino Nano V3.0 Pre-Soldered CH340G ATmega328P](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [100PCS Common Diode Kit - 1N4148, 1N4007, 1N5819 & 1N5399](https://shillehtek.com/products/100pcs-common-diode-kit-1n4148-1n4007-1n5819-1n5399-plastic-bag)

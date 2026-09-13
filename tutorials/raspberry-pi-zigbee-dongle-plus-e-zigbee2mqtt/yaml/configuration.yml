@@ -1,0 +1,22 @@
+# Zigbee2MQTT configuration that defines the MQTT broker, serial adapter (Plus-E dongle) port and adapter type, frontend settings, and logging level.
+#
+# Full tutorial: https://shillehtek.com/blogs/news/raspberry-pi-zigbee-dongle-plus-e-zigbee2mqtt
+# Shop parts: https://shillehtek.com
+# More examples: https://github.com/shillehbean/shillehtek-examples
+#
+
+mqtt:
+  base_topic: zigbee2mqtt
+  server: mqtt://localhost:1883
+
+serial:
+  port: /dev/serial/by-id/usb-Itead_Sonoff_Zigbee_3.0_USB_Dongle_Plus_V2_XXXXXXXXXXXX-if00-port0
+  adapter: ezsp
+
+frontend:
+  port: 8080
+  host: 0.0.0.0
+  enabled: true
+
+advanced:
+  log_level: info

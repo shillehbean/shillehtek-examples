@@ -1,0 +1,7 @@
+# Esp32 examples
+
+- [`psram_info.ino`](./psram_info.ino) — Prints CPU frequency, flash size, PSRAM size, and free PSRAM to the Serial console for verification.
+- [`usb_hid_keyboard_example.ino`](./usb_hid_keyboard_example.ino) — Initializes the ESP32-S3 USB HID keyboard and sends a short text string as a keyboard output.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/esp32-s3-devkitc-1-n16r8-psram-verify-16mb-8mb)  
+Parts used: [ESP-WROOM-32 (ESP-32S) ESP32 Dev Board CP2102 USB-C Pre-Soldered](https://shillehtek.com/products/esp32-wroom-dev-board-cp2102-usb-c-presoldered) · [XIAO ESP32S3 Pre-Soldered Microcontroller with WiFi & Bluetooth for Arduino & MicroPython](https://shillehtek.com/products/xiao-seeed-esp32s3-pre-soldered-with-usb-c-cable) · [ESP32 Dev Board 4MB CP2102 USB-C Pre-Soldered 38-Pin](https://shillehtek.com/products/esp32-dev-board-cp2102-type-c-4mb) · [830 Point Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [120pcs 20cm Dupont Jumper Wires for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire) · [ESP32-S3 DevKitC-1 Dev Board with Pre-Soldered Headers](https://shillehtek.com/products/esp32-s3-devkitc-1-presoldered-headers) · [Black USB-C Cable 2A 0.5m](https://shillehtek.com/products/black-type-c-usb-cable-2a-0-5m)

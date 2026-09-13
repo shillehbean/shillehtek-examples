@@ -1,0 +1,6 @@
+# Esp32 examples
+
+- [`dht22_esp32_serial.ino`](./dht22_esp32_serial.ino) — Reads humidity and temperature from a DHT22 sensor and prints the values (Celsius and Fahrenheit) to the Serial Monitor every two seconds.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/esp32-dht22-temp-humidity-serial)  
+Parts used: [400-Point Small Solderless Breadboard for Arduino, Raspberry Pi & ESP32](https://shillehtek.com/products/shillehtek-400-point-breadboard) · [120pcs 10cm Jumper Wire Set M-F, M-M, F-F for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire) · [DHT22 Temperature & Humidity Sensor for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-dht22-with-cables) · [LCD1602 16x2 LCD Display Module for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-lcd1602-16x2-character-display-module) · [LCD1602 16x2 Keypad Shield for Arduino & Raspberry Pi](https://shillehtek.com/products/shillehtek-lcd1602-16x2-keypad-shield) · [PCF8574 I2C Serial Interface Adapter Module for 1602 & 2004 LCD Displays](https://shillehtek.com/products/pcf8574-i2c-serial-interface-adapter-module-for-1602-2004-lcd) · [ESP-WROOM-32 (ESP-32S) ESP32 Dev Board CP2102 USB-C Pre-Soldered](https://shillehtek.com/products/esp32-wroom-dev-board-cp2102-usb-c-presoldered)
