@@ -1,9 +1,9 @@
-# Demonstrate a recursive factorial function in Lua and print the result for a given number.
-#
-# Full tutorial: https://shillehtek.com/blogs/news/esp32-s3-xedge32-program-lua-web-ide
-# Parts used: https://shillehtek.com/products/xiao-seeed-esp32s3-pre-soldered-with-usb-c-cable
-# More examples: https://github.com/shillehbean/shillehtek-examples
-#
+-- Demonstrate a recursive factorial function in Lua and print the result for a given number.
+--
+-- Full tutorial: https://shillehtek.com/blogs/news/esp32-s3-xedge32-program-lua-web-ide
+-- Parts used: https://shillehtek.com/products/xiao-seeed-esp32s3-pre-soldered-with-usb-c-cable
+-- More examples: https://github.com/shillehbean/shillehtek-examples
+--
 
 -- Function to calculate factorial
 function factorial(n)

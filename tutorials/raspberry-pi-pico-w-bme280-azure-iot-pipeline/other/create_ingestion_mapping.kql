@@ -1,10 +1,10 @@
-# Kusto (ADX) command to create a JSON ingestion mapping named 'iotmap' for the iotdata table.
-#
-# Full tutorial: https://shillehtek.com/blogs/news/raspberry-pi-pico-w-bme280-azure-iot-pipeline
-# Parts used: https://shillehtek.com/products/bme280-pre-soldered-atmospheric-temperature-pressure-and-humidity-sensor
-#             https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire
-#             https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire
-# More examples: https://github.com/shillehbean/shillehtek-examples
-#
+// Kusto (ADX) command to create a JSON ingestion mapping named 'iotmap' for the iotdata table.
+//
+// Full tutorial: https://shillehtek.com/blogs/news/raspberry-pi-pico-w-bme280-azure-iot-pipeline
+// Parts used: https://shillehtek.com/products/bme280-pre-soldered-atmospheric-temperature-pressure-and-humidity-sensor
+//             https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire
+//             https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire
+// More examples: https://github.com/shillehbean/shillehtek-examples
+//
 
 .create table iotdata ingestion json mapping 'iotmap' '[{"column":"deviceId","path":"$.deviceId"},{"column":"temperature","path":"$.temperature"},{"column":"humidity","path":"$.humidity"},{"column":"timestamp","path":"$.timestamp"}]'

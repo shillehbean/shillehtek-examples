@@ -1,11 +1,11 @@
-# Kusto (ADX) query to return iotdata records from the last 10 minutes ordered by timestamp descending.
-#
-# Full tutorial: https://shillehtek.com/blogs/news/raspberry-pi-pico-w-bme280-azure-iot-pipeline
-# Parts used: https://shillehtek.com/products/bme280-pre-soldered-atmospheric-temperature-pressure-and-humidity-sensor
-#             https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire
-#             https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire
-# More examples: https://github.com/shillehbean/shillehtek-examples
-#
+// Kusto (ADX) query to return iotdata records from the last 10 minutes ordered by timestamp descending.
+//
+// Full tutorial: https://shillehtek.com/blogs/news/raspberry-pi-pico-w-bme280-azure-iot-pipeline
+// Parts used: https://shillehtek.com/products/bme280-pre-soldered-atmospheric-temperature-pressure-and-humidity-sensor
+//             https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire
+//             https://shillehtek.com/products/shillehtek-120pcs-10cm-multicolored-jumper-wire
+// More examples: https://github.com/shillehbean/shillehtek-examples
+//
 
 iotdata
 | where timestamp > ago(10m)
