@@ -1,4 +1,4 @@
-// Reads a 4x4 matrix keypad and sends USB keyboard macros (pressing Ctrl+Alt+Shift plus a function or other key) via the Pro Micro's USB HID interface.
+// Partial USB macro-pad sketch with two example key actions; setup() initialization is missing and must be supplied before use.
 //
 // Full tutorial: https://shillehtek.com/blogs/news/pro-micro-4x4-matrix-keypad-usb-macro-pad
 // Parts used: https://shillehtek.com/products/pro-micro-atmega32u4-5v-16mhz-presoldered-micro-usb

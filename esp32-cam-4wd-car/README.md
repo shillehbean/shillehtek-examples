@@ -1,6 +1,6 @@
 # ESP32-CAM 4WD Smart Robot Car Kit with WiFi App Control (Battery Not Included)
 
-This is the ESP32-CAM 4WD Smart Robot Car Kit: an ESP32-CAM board mounted on a four-wheel drive chassis with motor drivers and a camera for Wi‑Fi control and streaming. Developers can use it to build a Wi‑Fi controlled robot that streams live video while driving, and the examples include Arduino/ESP32 sketches for camera verification, motor bench tests, and a simple AP-based web control.
+This kit combines an ESP32-CAM, a four-wheel chassis, and motor drivers for a Wi-Fi controlled robot. The code here covers motor bench tests and basic web control. Follow the linked manual for Arduino IDE setup and the CameraWebServer camera check.
 
 **Buy:** [ESP32-CAM 4WD Smart Robot Car Kit with WiFi App Control (Battery Not Included)](https://shillehtek.com/products/esp32-cam-4wd-robot-car-kit)  
 **Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-cam-4wd-robot-car-kit-manual)
@@ -9,7 +9,7 @@ This is the ESP32-CAM 4WD Smart Robot Car Kit: an ESP32-CAM board mounted on a f
 
 ## Examples in this folder
 
-- [`arduino/`](./arduino/) — 2 sample(s)
+- [`arduino/`](./arduino/) — 1 sample(s)
 - [`esp32/`](./esp32/) — 1 sample(s)
 
 ## See also

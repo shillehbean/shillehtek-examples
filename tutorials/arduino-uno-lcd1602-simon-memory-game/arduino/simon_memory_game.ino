@@ -1,4 +1,4 @@
-// Arduino sketch implementing a Simon-style memory game using four LEDs and buttons, a passive buzzer for tones, and an I2C LCD to display the score.
+// Partial Simon game sketch from the article; setup() initialization is missing and must be supplied before use.
 //
 // Full tutorial: https://shillehtek.com/blogs/news/arduino-uno-lcd1602-simon-memory-game
 // Parts used: https://shillehtek.com/products/arduino-uno-r3-starter-kit
