@@ -1,6 +1,6 @@
 // Reads raw ECG samples from the AD8232 on A0, detects leads-off via two digital pins, and streams values to the Serial Plotter at ~200 Hz.
 //
-// Buy this module: https://shillehtek.com/products/ad8232-ecg-module-heart-rate-ecg-monitoring-sensor-kit
+// Buy this module: https://shillehtek.com/products/ad8232-ecg-module-heart-rate-sensor-kit
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ad8232-ecg-module-heart-rate-ecg-monitoring-sensor-kit-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

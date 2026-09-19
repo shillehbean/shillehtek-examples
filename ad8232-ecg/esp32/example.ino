@@ -1,6 +1,6 @@
 // Reads the AD8232 output using an ESP32 ADC in MicroPython with proper attenuation and width, monitors LO+ and LO- for leads-off, and prints ECG samples at ~200 Hz.
 //
-// Buy this module: https://shillehtek.com/products/ad8232-ecg-module-heart-rate-ecg-monitoring-sensor-kit
+// Buy this module: https://shillehtek.com/products/ad8232-ecg-module-heart-rate-sensor-kit
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ad8232-ecg-module-heart-rate-ecg-monitoring-sensor-kit-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

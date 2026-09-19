@@ -1,6 +1,6 @@
 # Reads the AD8232 output on a Raspberry Pi Pico ADC in MicroPython, handles leads-off detection, scales the 16-bit ADC reading to 12-bit, and prints values at ~200 Hz.
 #
-# Buy this module: https://shillehtek.com/products/ad8232-ecg-module-heart-rate-ecg-monitoring-sensor-kit
+# Buy this module: https://shillehtek.com/products/ad8232-ecg-module-heart-rate-sensor-kit
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ad8232-ecg-module-heart-rate-ecg-monitoring-sensor-kit-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #
