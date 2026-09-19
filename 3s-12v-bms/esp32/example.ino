@@ -1,6 +1,6 @@
 // Uses an ESP32 ADC pin (GPIO34) to read the divided pack voltage, scales it back to the pack voltage using the divider ratio, and prints the pack voltage over serial.
 //
-// Buy this module: https://shillehtek.com/products/12V
+// Buy this module: https://shillehtek.com/products/3s-12v-18650-lithium-battery-protection-board-11-1v-12-6v-balanced-25a
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/3s-12v-18650-lithium-battery-protection-board-11-1v-12-6v-balanced-25a-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

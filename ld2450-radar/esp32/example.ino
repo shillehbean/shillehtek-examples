@@ -1,6 +1,6 @@
 // ESP32 Arduino code using HardwareSerial(2) on pins 16/17 to read the radar at 256000 baud, parse valid frames, decode three tracked targets, and print formatted position/speed/distance lines.
 //
-// Buy this module: https://shillehtek.com/products/24GHz
+// Buy this module: https://shillehtek.com/products/hlk-ld2450-24ghz-mmwave-radar-human-body-tracking-sensor-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hlk-ld2450-24ghz-mmwave-radar-human-body-tracking-sensor-module-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

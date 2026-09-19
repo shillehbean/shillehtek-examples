@@ -1,6 +1,6 @@
 # Uses gpiozero's RotaryEncoder and Button classes on a Raspberry Pi to print knob step counts and detect button presses via event callbacks.
 #
-# Buy this module: https://shillehtek.com/products/Arduino
+# Buy this module: https://shillehtek.com/products/ky-040-rotary-encoder-module-for-arduino-with-demo-code
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ky-040-rotary-encoder-module-for-arduino-with-demo-code-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

@@ -1,6 +1,6 @@
 // Reads RCWL-0516 OUT on an Arduino Uno using an external interrupt; prints "Motion detected!" to Serial and mirrors the sensor state to the onboard LED.
 //
-// Buy this module: https://shillehtek.com/products/Arduino
+// Buy this module: https://shillehtek.com/products/rcwl-0516-microwave-doppler-radar-motion-sensor-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/rcwl-0516-microwave-doppler-radar-motion-sensor-module-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

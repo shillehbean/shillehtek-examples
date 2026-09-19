@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`breakout_game.ino`](./breakout_game.ino) — Arduino sketch implementing a Breakout-style game using FastLED on an 8x8 WS2812 matrix with two-button input, buzzer sound, brick/paddle/ball logic, and drawing routines.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-ws2812-matrix-breakout-game)  
+Parts used: [Arduino Nano V3.0 Pre-Soldered](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [WS2812 8x8 LED Matrix](https://shillehtek.com/products/ws2812-8x8-led-matrix-arduino-esp32-raspberry-pi) · [KY-006 Passive Buzzer](https://shillehtek.com/products/ky-006-passive-piezo-buzzer-alarm-module-for-arduino-projects) · [Tactile Button Kit](https://shillehtek.com/products/200pcs-6mm-light-touch-button-switch-kit-plastic-box-4-3-5-6-7-8-9-10-12-14-16mm) · [Resistor Kit](https://shillehtek.com/products/820pcs-1-4w-1-41-kinds-each-value-20pcs-metal-film-resistors-kit-plastic-box) · [Electrolytic Capacitor Kit](https://shillehtek.com/products/200pcs-electrolytic-capacitors-0-1uf-50v-220uf-10v-kit-plastic-box) · [MB102 Breadboard Power Supply](https://shillehtek.com/products/shillehtek-universal-power-supply-module) · [830-Point Breadboard](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers)

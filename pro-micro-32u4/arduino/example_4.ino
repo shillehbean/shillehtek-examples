@@ -1,6 +1,6 @@
 // Scans the I2C bus (addresses 1–126) and prints any detected device addresses to the native USB Serial console to verify SDA/SCL wiring.
 //
-// Buy this module: https://shillehtek.com/products/manual
+// Buy this module: https://shillehtek.com/products/pro-micro-atmega32u4-5v-16mhz-pre-soldered-usb-c-development-board
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/pro-micro-atmega32u4-5v-16mhz-presoldered-type-c-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

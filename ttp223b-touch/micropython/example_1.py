@@ -1,6 +1,6 @@
 # Monitors the TTP223 input on GPIO4 (ESP32) and prints 'Touched' or 'Released' when the input state changes.
 #
-# Buy this module: https://shillehtek.com/products/Arduino
+# Buy this module: https://shillehtek.com/products/digital-sensor-ttp223b-module-capacitive-touch-switch
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/digital-sensor-ttp223b-module-capacitive-touch-switch-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

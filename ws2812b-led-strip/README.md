@@ -2,7 +2,7 @@
 
 This product is an addressable WS2812B LED strip — individually controllable RGB LEDs in a 5V strip. Developers can use it to build status indicators, animated lighting, wearables, or DIY ambient lighting projects with microcontrollers or a Raspberry Pi.
 
-**Buy:** [WS2812B LED Strip](https://shillehtek.com/products/Addressable LED)  
+**Buy:** [WS2812B LED Strip](https://shillehtek.com/products/non-waterproof-ws2812b-smd-led-strip-60-led-meter-flexible-5m-roll-5v-ip30)  
 **Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/non-waterproof-ws2812b-smd-led-strip-60-led-meter-flexible-5m-roll-5v-ip30-manual)
 
 ![WS2812B LED Strip](https://cdn.shopify.com/s/files/1/0837/4340/8415/files/ShillehTek_PNG_Transparent_600_x_300_px.png?v=1779299472)

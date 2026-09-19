@@ -1,6 +1,6 @@
 // Use SoftwareSerial on an Arduino to read LD2410-style frames from the HLK-2410C, parse the footer-delimited frames, and print target state plus moving/static distances to the hardware Serial port.
 //
-// Buy this module: https://shillehtek.com/products/Arduino
+// Buy this module: https://shillehtek.com/products/hlk-2410c-human-presence-radar-motion-detection-module-pre-soldered
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hlk-2410c-human-presence-radar-motion-detection-module-pre-soldered-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

@@ -1,6 +1,6 @@
 // Uses a pushbutton on D2 with INPUT_PULLUP to send the string "Hello from Pro Micro!" and press Enter via the USB Keyboard HID on button press.
 //
-// Buy this module: https://shillehtek.com/products/manual
+// Buy this module: https://shillehtek.com/products/pro-micro-atmega32u4-5v-16mhz-pre-soldered-usb-c-development-board
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/pro-micro-atmega32u4-5v-16mhz-presoldered-type-c-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

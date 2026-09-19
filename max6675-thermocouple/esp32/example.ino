@@ -1,6 +1,6 @@
 // Reads Celsius from a MAX6675 connected to an ESP32 using the Adafruit MAX6675 library and prints the temperature over Serial, handling a disconnected thermocouple.
 //
-// Buy this module: https://shillehtek.com/products/Arduino
+// Buy this module: https://shillehtek.com/products/max6675-module-k-type-thermocouple-sensor-measures-up-to-1024-degrees
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/max6675-module-k-type-thermocouple-sensor-measures-up-to-1024-degrees-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

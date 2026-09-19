@@ -7,4 +7,4 @@
 - [`example_5.ino`](./example_5.ino) — Implements a USB media control remote using the HID-Project library, mapping three buttons (D2/D3/D4) to Play/Pause, Next, and Previous commands.
 
 Full wiring + setup notes: [manual](https://shillehtek.com/blogs/shillehtek-product-manuals/pro-micro-atmega32u4-5v-16mhz-presoldered-type-c-manual)  
-Buy the module: https://shillehtek.com/products/manual
+Buy the module: https://shillehtek.com/products/pro-micro-atmega32u4-5v-16mhz-pre-soldered-usb-c-development-board

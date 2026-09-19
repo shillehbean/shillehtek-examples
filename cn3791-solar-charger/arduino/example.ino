@@ -1,6 +1,6 @@
 // Reads the battery voltage on an Arduino via a 100k/100k divider, prints the voltage over serial, and blinks the onboard LED rapidly when the battery is below a defined threshold.
 //
-// Buy this module: https://shillehtek.com/products/Battery
+// Buy this module: https://shillehtek.com/products/cn3791-6v-mppt-solar-charger-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/cn3791-6v-mppt-solar-charger-module-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

@@ -1,6 +1,6 @@
 // Uses an ESP32 ADC (GPIO34) to measure the battery via a high-value divider and reads the TP4056 CHRG and STDBY open-drain signal pins (with pull-ups) to report voltage, charging, and full states.
 //
-// Buy this module: https://shillehtek.com/products/Arduino
+// Buy this module: https://shillehtek.com/products/tp4056-1a-lipo-battery-charging-board-type-c-with-current-protection
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/tp4056-1a-lipo-battery-charging-board-type-c-with-current-protection-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

@@ -1,0 +1,25 @@
+# Home Assistant YAML configuration that defines MQTT sensors for temperature and humidity and a switch linked to MQTT command and state topics.
+#
+# Full tutorial: https://shillehtek.com/blogs/news/esp32-dht11-mqtt-home-assistant-dashboard-sensor
+# Parts used: https://shillehtek.com/products/esp32-dev-board-cp2102-type-c-4mb
+#             https://shillehtek.com/products/shillehtek-dht11-with-cables
+#             https://shillehtek.com/products/1-channel-5v-relay-module
+# More examples: https://github.com/shillehbean/shillehtek-examples
+#
+
+mqtt:
+  sensor:
+    - name: "Living Room Temperature"
+      state_topic: "home/livingroom/temperature"
+      unit_of_measurement: "°C"
+      device_class: temperature
+    - name: "Living Room Humidity"
+      state_topic: "home/livingroom/humidity"
+      unit_of_measurement: "%"
+      device_class: humidity
+  switch:
+    - name: "Living Room Relay"
+      command_topic: "home/livingroom/relay/set"
+      state_topic: "home/livingroom/relay"
+      payload_on: "ON"
+      payload_off: "OFF"

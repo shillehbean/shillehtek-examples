@@ -1,6 +1,6 @@
 # Runs on a Raspberry Pi Pico (MicroPython) to read ADC0 (GP26) through a 100k/100k divider, convert the 16-bit ADC reading to battery voltage, and print the voltage every second.
 #
-# Buy this module: https://shillehtek.com/products/18650
+# Buy this module: https://shillehtek.com/products/1s-3-7v-3a-2mos-bms-li-ion-18650-battery-protection-board
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/1s-3-7v-3a-2mos-bms-li-ion-18650-battery-protection-board-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

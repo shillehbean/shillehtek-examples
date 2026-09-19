@@ -1,7 +1,7 @@
 // Measures a 1S LiPo on ESP32 GPIO34 using analogReadMilliVolts with averaging and ADC attenuation, computes cell voltage and percent state-of-charge, prints to Serial and signals low battery.
 //
-// Buy this module: https://shillehtek.com/products/3.7V
-// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/351015-500mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual
+// Buy this module: https://shillehtek.com/products/351015-50mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm
+// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/351015-50mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //
 

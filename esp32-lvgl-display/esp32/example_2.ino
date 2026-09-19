@@ -1,6 +1,6 @@
 // Sets up LVGL with a TFT_eSPI draw buffer and flush callback, registers the display driver, and creates a simple centered LVGL button labeled 'Hello CYD'.
 //
-// Buy this module: https://shillehtek.com/products/Display
+// Buy this module: https://shillehtek.com/products/esp32-lvgl-2-8-inch-240x320-smart-display-with-resistive-touch-wifi-bluetooth-dev-board
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-lvgl-2-8-inch-240x320-smart-display-with-resistive-touch-wifi-bluetooth-dev-board-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

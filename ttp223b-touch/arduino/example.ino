@@ -1,6 +1,6 @@
 // Reads the TTP223 digital output on pin 2 and toggles the built-in LED on the rising touch edge while printing state changes to Serial.
 //
-// Buy this module: https://shillehtek.com/products/Arduino
+// Buy this module: https://shillehtek.com/products/digital-sensor-ttp223b-module-capacitive-touch-switch
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/digital-sensor-ttp223b-module-capacitive-touch-switch-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

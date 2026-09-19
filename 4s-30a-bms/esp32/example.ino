@@ -1,6 +1,6 @@
 // Uses an ESP32 to measure 4S pack voltage on ADC34 and toggles a relay on GPIO25 when the pack voltage falls below a configurable cutoff, while printing status to Serial.
 //
-// Buy this module: https://shillehtek.com/products/14.8V
+// Buy this module: https://shillehtek.com/products/4s-30a-18650-lithium-battery-protection-board-14-8v-16v-with-cable
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/4s-30a-18650-lithium-battery-protection-board-14-8v-16v-with-cable-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

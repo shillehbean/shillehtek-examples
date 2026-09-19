@@ -2,7 +2,7 @@
 
 The TCA9548A is an 8-channel I2C multiplexer that lets a single host controller switch among up to eight downstream I2C buses to avoid address conflicts or separate devices. Developers use it to connect multiple identical sensors or peripherals (for example several BME280 sensors) to one microcontroller or SBC and manage them channel-by-channel.
 
-**Buy:** [TCA9548A](https://shillehtek.com/products/Arduino)  
+**Buy:** [TCA9548A](https://shillehtek.com/products/cjmcu-9548-tca9548a-1-to-8-i2c-8-channel-multiplexer-module)  
 **Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/cjmcu-9548-tca9548a-1-to-8-i2c-8-channel-multiplexer-module-manual)
 
 ![TCA9548A](https://cdn.shopify.com/s/files/1/0837/4340/8415/files/ShillehTek_PNG_Transparent_600_x_300_px.png?v=1779299472)

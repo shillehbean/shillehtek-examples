@@ -1,6 +1,6 @@
 # Runs on a Pico to detect rising touch events from the TTP223 on GP15 and toggle the onboard LED while printing the LED state.
 #
-# Buy this module: https://shillehtek.com/products/Arduino
+# Buy this module: https://shillehtek.com/products/digital-sensor-ttp223b-module-capacitive-touch-switch
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/digital-sensor-ttp223b-module-capacitive-touch-switch-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

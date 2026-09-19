@@ -1,6 +1,6 @@
 # Uses smbus2 on a Raspberry Pi to select each TCA9548A channel and scan for connected I2C devices, listing found addresses.
 #
-# Buy this module: https://shillehtek.com/products/Arduino
+# Buy this module: https://shillehtek.com/products/cjmcu-9548-tca9548a-1-to-8-i2c-8-channel-multiplexer-module
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/cjmcu-9548-tca9548a-1-to-8-i2c-8-channel-multiplexer-module-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

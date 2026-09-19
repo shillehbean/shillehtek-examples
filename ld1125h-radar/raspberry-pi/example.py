@@ -1,6 +1,6 @@
 # Python script for a Raspberry Pi that reads LD1125H ASCII output from /dev/serial0, parses movement/occupancy frames, and prints the distance in meters.
 #
-# Buy this module: https://shillehtek.com/products/24GHz
+# Buy this module: https://shillehtek.com/products/ld1125h-24ghz-mmwave-human-presence-radar-sensor-module
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ld1125h-24ghz-mmwave-human-presence-radar-sensor-module-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

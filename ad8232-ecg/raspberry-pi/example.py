@@ -1,6 +1,6 @@
 # Uses an MCP3008 over SPI to read the AD8232 ECG output on a Raspberry Pi, checks LO+ and LO- GPIOs for leads-off, and prints samples at ~200 Hz.
 #
-# Buy this module: https://shillehtek.com/products/ad8232-ecg-module-heart-rate-ecg-monitoring-sensor-kit
+# Buy this module: https://shillehtek.com/products/ad8232-ecg-module-heart-rate-sensor-kit
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/ad8232-ecg-module-heart-rate-ecg-monitoring-sensor-kit-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

@@ -1,6 +1,6 @@
 # Uses gpiozero on a Raspberry Pi with GPIO17 to call event handlers that print 'Touched' and 'Released' when the TTP223 changes state.
 #
-# Buy this module: https://shillehtek.com/products/Arduino
+# Buy this module: https://shillehtek.com/products/digital-sensor-ttp223b-module-capacitive-touch-switch
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/digital-sensor-ttp223b-module-capacitive-touch-switch-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

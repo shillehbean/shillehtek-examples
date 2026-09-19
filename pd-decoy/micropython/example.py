@@ -1,6 +1,6 @@
 # Runs on a Pico with MicroPython to sample VBUS via ADC0, compute the actual output voltage from the divider, and print the voltage and detected PD profile every second.
 #
-# Buy this module: https://shillehtek.com/products/Arduino
+# Buy this module: https://shillehtek.com/products/pdsink-pd-decoy-pd-fast-charging-test-board-5-20v
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/pdsink-pd-decoy-pd-fast-charging-test-board-5-20v-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

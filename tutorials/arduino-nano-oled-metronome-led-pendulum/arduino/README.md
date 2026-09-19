@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`nano_oled_metronome.ino`](./nano_oled_metronome.ino) — Arduino sketch that implements an LED pendulum metronome: reads a potentiometer for BPM, updates eight LEDs as a pendulum, sounds a buzzer on the beat, and displays BPM and tempo markings on an SSD1306 I2C OLED.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-oled-metronome-led-pendulum)  
+Parts used: [Arduino Nano V3.0 Pre-Soldered](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [0.96" I2C OLED (SSD1306)](https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306) · [KY-006 Passive Buzzer](https://shillehtek.com/products/ky-006-passive-piezo-buzzer-alarm-module-for-arduino-projects) · [Arduino Uno R3 Super Starter Kit](https://shillehtek.com/products/arduino-uno-r3-starter-kit) · [Resistor Kit](https://shillehtek.com/products/820pcs-1-4w-1-41-kinds-each-value-20pcs-metal-film-resistors-kit-plastic-box) · [830-Point Breadboard](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [Dupont Jumper Wires](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire)
