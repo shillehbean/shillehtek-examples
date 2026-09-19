@@ -1,11 +1,11 @@
-# 351015 Battery
+# 351015 50mAh 3.7V Lithium Rechargeable Battery (3.5 x 10 x 15mm)
 
 The 351015 is a single-cell 3.7V LiPo battery intended for small electronics projects. Use it with a simple 100k/100k divider to monitor cell voltage from microcontrollers and build low-battery warnings, power monitors, or battery state-of-charge indicators.
 
-**Buy:** [351015 Battery](https://shillehtek.com/products/3.7V)  
-**Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/351015-500mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual)
+**Buy:** [351015 50mAh 3.7V Lithium Rechargeable Battery (3.5 x 10 x 15mm)](https://shillehtek.com/products/351015-50mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm)  
+**Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/351015-50mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual)
 
-![351015 Battery](https://cdn.shopify.com/s/files/1/0837/4340/8415/files/ShillehTek_PNG_Transparent_600_x_300_px.png?v=1779299472)
+![351015 50mAh 3.7V Lithium Rechargeable Battery (3.5 x 10 x 15mm)](https://cdn.shopify.com/s/files/1/0837/4340/8415/articles/lithium-battery-351015-500mah-01_0073557b-ccf5-4517-bf26-eb2699284dd2.jpg?v=1789378039)
 
 ## Examples in this folder
 
@@ -20,4 +20,4 @@ The 351015 is a single-cell 3.7V LiPo battery intended for small electronics pro
 - Raspberry Pi Pico
 
 ---
-_Generated from [https://shillehtek.com/blogs/shillehtek-product-manuals/351015-500mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual](https://shillehtek.com/blogs/shillehtek-product-manuals/351015-500mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual). Last verified: see commit history._
+_Generated from [https://shillehtek.com/blogs/shillehtek-product-manuals/351015-50mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual](https://shillehtek.com/blogs/shillehtek-product-manuals/351015-50mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual). Last verified: see commit history._

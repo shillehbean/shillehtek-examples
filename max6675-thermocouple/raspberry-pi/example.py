@@ -1,6 +1,6 @@
 # Uses Python with spidev on a Raspberry Pi to read the MAX6675 over SPI, convert the raw data to Celsius, and print temperature or a disconnected warning in a loop.
 #
-# Buy this module: https://shillehtek.com/products/Arduino
+# Buy this module: https://shillehtek.com/products/max6675-module-k-type-thermocouple-sensor-measures-up-to-1024-degrees
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/max6675-module-k-type-thermocouple-sensor-measures-up-to-1024-degrees-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

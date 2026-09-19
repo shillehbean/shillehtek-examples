@@ -1,6 +1,6 @@
 // Toggles the Pro Micro's built-in TX and RX LEDs (active-LOW) every 500 ms to provide a blink indicator since there's no dedicated user LED pin.
 //
-// Buy this module: https://shillehtek.com/products/manual
+// Buy this module: https://shillehtek.com/products/pro-micro-atmega32u4-5v-16mhz-pre-soldered-usb-c-development-board
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/pro-micro-atmega32u4-5v-16mhz-presoldered-type-c-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

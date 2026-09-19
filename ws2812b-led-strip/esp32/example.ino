@@ -1,6 +1,6 @@
 // Runs FastLED on an ESP32 to drive 60 WS2812B LEDs (via RMT) and show a moving pixel with a fading trail (Sinelon effect).
 //
-// Buy this module: https://shillehtek.com/products/Addressable LED
+// Buy this module: https://shillehtek.com/products/non-waterproof-ws2812b-smd-led-strip-60-led-meter-flexible-5m-roll-5v-ip30
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/non-waterproof-ws2812b-smd-led-strip-60-led-meter-flexible-5m-roll-5v-ip30-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

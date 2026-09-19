@@ -1,6 +1,6 @@
 # Reads temperature from a MAX6675 using MicroPython on a Pico (or similar) via SPI, converting the raw 12-bit value to Celsius and printing the result while detecting an open thermocouple.
 #
-# Buy this module: https://shillehtek.com/products/Arduino
+# Buy this module: https://shillehtek.com/products/max6675-module-k-type-thermocouple-sensor-measures-up-to-1024-degrees
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/max6675-module-k-type-thermocouple-sensor-measures-up-to-1024-degrees-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

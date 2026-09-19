@@ -2,7 +2,7 @@
 
 The Pro Micro ATmega32U4 is a compact, USB-capable microcontroller board based on the ATmega32U4. Developers commonly use it to build USB HID devices (keyboards, mice, media remotes) and small embedded prototypes that need native USB functionality.
 
-**Buy:** [Pro Micro ATmega32U4](https://shillehtek.com/products/manual)  
+**Buy:** [Pro Micro ATmega32U4](https://shillehtek.com/products/pro-micro-atmega32u4-5v-16mhz-pre-soldered-usb-c-development-board)  
 **Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/pro-micro-atmega32u4-5v-16mhz-presoldered-type-c-manual)
 
 ## Examples in this folder

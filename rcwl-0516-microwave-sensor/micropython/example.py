@@ -1,6 +1,6 @@
 # MicroPython example for a Pico: attach an IRQ to the RCWL-0516 to count motion events and mirror the sensor state to the onboard LED.
 #
-# Buy this module: https://shillehtek.com/products/Arduino
+# Buy this module: https://shillehtek.com/products/rcwl-0516-microwave-doppler-radar-motion-sensor-module
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/rcwl-0516-microwave-doppler-radar-motion-sensor-module-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

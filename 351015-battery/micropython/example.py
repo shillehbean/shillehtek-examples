@@ -1,7 +1,7 @@
 # MicroPython script for Raspberry Pi Pico that reads the divided LiPo voltage on GP26 (ADC0), averages samples, converts to the cell voltage, prints state-of-charge, and warns when near empty.
 #
-# Buy this module: https://shillehtek.com/products/3.7V
-# Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/351015-500mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual
+# Buy this module: https://shillehtek.com/products/351015-50mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm
+# Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/351015-50mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #
 

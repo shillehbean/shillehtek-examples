@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`nano_oled_oscilloscope.ino`](./nano_oled_oscilloscope.ino) — Arduino Nano sketch that reads the ADC with a trigger, captures 128-sample waveforms, and displays a triggered oscilloscope trace plus Vpp and frequency on an SSD1306 OLED.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-oled-oscilloscope-30khz-waveforms)  
+Parts used: [Arduino Nano V3.0 Pre-Soldered](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [0.96 inch I2C OLED (SSD1306)](https://shillehtek.com/products/0-96-i2c-white-oled-display-module-4-pin-ssd1306) · [Tactile Button Kit](https://shillehtek.com/products/200pcs-6mm-light-touch-button-switch-kit-plastic-box-4-3-5-6-7-8-9-10-12-14-16mm) · [Resistor Kit](https://shillehtek.com/products/820pcs-1-4w-1-41-kinds-each-value-20pcs-metal-film-resistors-kit-plastic-box) · [Electrolytic Capacitor Kit](https://shillehtek.com/products/200pcs-electrolytic-capacitors-0-1uf-50v-220uf-10v-kit-plastic-box) · [24 MHz Logic Analyzer](https://shillehtek.com/products/24mhz-8-channel-usb-logic-analyzer-digital-debugger-for-arduino) · [830-Point Breadboard](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [Dupont Jumper Wires](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire)

@@ -1,6 +1,6 @@
 // Samples and averages the battery voltage on an ESP32, prints it, and puts the board into deep sleep for one hour if the voltage is below the configured low-battery threshold.
 //
-// Buy this module: https://shillehtek.com/products/Battery
+// Buy this module: https://shillehtek.com/products/cn3791-6v-mppt-solar-charger-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/cn3791-6v-mppt-solar-charger-module-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

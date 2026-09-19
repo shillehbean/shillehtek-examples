@@ -1,7 +1,7 @@
 // Reads a 1S LiPo voltage on an Arduino Uno/Nano using a 100k/100k divider, averages ADC samples, converts to cell voltage, estimates state-of-charge, prints to Serial and warns on low voltage.
 //
-// Buy this module: https://shillehtek.com/products/3.7V
-// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/351015-500mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual
+// Buy this module: https://shillehtek.com/products/351015-50mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm
+// Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/351015-50mah-3-7v-lithium-rechargeable-battery-3-5-x-10-x-15mm-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //
 

@@ -1,6 +1,6 @@
 // Uses an ESP32 ADC to measure VBUS and drives a relay on GPIO25 to disconnect the load if the measured voltage exceeds an expected PD setting plus tolerance.
 //
-// Buy this module: https://shillehtek.com/products/Arduino
+// Buy this module: https://shillehtek.com/products/pdsink-pd-decoy-pd-fast-charging-test-board-5-20v
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/pdsink-pd-decoy-pd-fast-charging-test-board-5-20v-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

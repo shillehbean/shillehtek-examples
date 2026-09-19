@@ -1,6 +1,6 @@
 # Open a Linux serial port (e.g. /dev/serial0) on a Raspberry Pi with pyserial to read and buffer incoming HLK-2410C frames, then parse and print human-readable target state and distances.
 #
-# Buy this module: https://shillehtek.com/products/Arduino
+# Buy this module: https://shillehtek.com/products/hlk-2410c-human-presence-radar-motion-detection-module-pre-soldered
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hlk-2410c-human-presence-radar-motion-detection-module-pre-soldered-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

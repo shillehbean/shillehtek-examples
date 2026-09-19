@@ -1,0 +1,6 @@
+# Esp32 examples
+
+- [`esp32_gc9a01_vu_meter.ino`](./esp32_gc9a01_vu_meter.ino) — Reads an analog audio envelope input on the ESP32 and draws a damped, animated needle on a GC9A01 240x240 round TFT to act as a VU meter (single channel).
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/esp32-gc9a01-stereo-vu-meter)  
+Parts used: [1.28" Round IPS LCD Display (GC9A01, 240x240)](https://shillehtek.com/products/round-1-28in-ips-lcd-gc9a01-240x240-esp32) · [ESP32 Dev Board (CP2102, USB-C, 38-Pin)](https://shillehtek.com/products/esp32-dev-board-cp2102-type-c-4mb) · [Common Diode Kit](https://shillehtek.com/products/100pcs-common-diode-kit-1n4148-1n4007-1n5819-1n5399-plastic-bag) · [Electrolytic Capacitor Kit](https://shillehtek.com/products/200pcs-electrolytic-capacitors-0-1uf-50v-220uf-10v-kit-plastic-box) · [Resistor Kit](https://shillehtek.com/products/820pcs-1-4w-1-41-kinds-each-value-20pcs-metal-film-resistors-kit-plastic-box) · [3.5mm Stereo Audio Jack Breakout](https://shillehtek.com/products/shillehtek-pre-soldered-3-5mm-stereo-audio-jack-breakout-board) · [830-Point Breadboard](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [Dupont Jumper Wires](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire)

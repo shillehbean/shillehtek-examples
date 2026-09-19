@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`whack_a_mole.ino`](./whack_a_mole.ino) — Main Arduino sketch implementing the Whack-a-Mole game: controls LEDs and buttons, updates score and countdown bar on an I2C LCD, and plays buzzer sounds.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-lcd1602-whack-a-mole-game)  
+Parts used: [Arduino Nano V3.0 Pre-Soldered](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [Tactile Button Kit](https://shillehtek.com/products/200pcs-6mm-light-touch-button-switch-kit-plastic-box-4-3-5-6-7-8-9-10-12-14-16mm) · [LCD1602 Display](https://shillehtek.com/products/shillehtek-lcd1602-16x2-character-display-module) · [PCF8574 I2C backpack](https://shillehtek.com/products/pcf8574-i2c-serial-interface-adapter-module-for-1602-2004-lcd) · [KY-006 Passive Buzzer](https://shillehtek.com/products/ky-006-passive-piezo-buzzer-alarm-module-for-arduino-projects) · [Resistor Kit](https://shillehtek.com/products/820pcs-1-4w-1-41-kinds-each-value-20pcs-metal-film-resistors-kit-plastic-box) · [830-Point Breadboard](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [Dupont Jumper Wires](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire)

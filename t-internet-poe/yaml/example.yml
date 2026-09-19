@@ -1,0 +1,28 @@
+# An ESPHome YAML snippet that configures the LAN8720 Ethernet PHY (MDC/MDIO pins, clock mode, PHY address, and power pin) for the T-Internet-POE board and enables API/OTA/logger services.
+#
+# Buy this module: https://shillehtek.com/products/esp32-poe-ethernet-dev-board-lan8720a
+# Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-poe-ethernet-dev-board-lan8720a-manual
+# More examples: https://github.com/shillehbean/shillehtek-examples
+#
+
+# ESPHome config for the T-Internet-POE
+# Drop into your device YAML - no wifi: block needed.
+
+esphome:
+  name: t-internet-poe
+
+esp32:
+  board: esp32dev
+
+ethernet:
+  type: LAN8720
+  mdc_pin: GPIO23
+  mdio_pin: GPIO18
+  clk_mode: GPIO17_OUT
+  phy_addr: 0
+  power_pin: GPIO5
+
+api:
+ota:
+  platform: esphome
+logger:

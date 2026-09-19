@@ -1,6 +1,6 @@
 # Runs on a Raspberry Pi using RPi.GPIO event detection to print timestamped motion events from the RCWL-0516 via a callback.
 #
-# Buy this module: https://shillehtek.com/products/Arduino
+# Buy this module: https://shillehtek.com/products/rcwl-0516-microwave-doppler-radar-motion-sensor-module
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/rcwl-0516-microwave-doppler-radar-motion-sensor-module-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

@@ -1,6 +1,6 @@
 # Runs on a Raspberry Pi Pico under MicroPython to read the battery via ADC, print the measured voltage, and flash the onboard LED quickly when the battery drops below a set threshold.
 #
-# Buy this module: https://shillehtek.com/products/Battery
+# Buy this module: https://shillehtek.com/products/cn3791-6v-mppt-solar-charger-module
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/cn3791-6v-mppt-solar-charger-module-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

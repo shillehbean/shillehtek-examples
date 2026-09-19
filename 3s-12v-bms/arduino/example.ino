@@ -1,6 +1,6 @@
 // Reads the 3S pack voltage via a 470k/100k divider on Arduino A0, converts the ADC reading to pack voltage and prints the voltage and a simple percent state-of-charge (9.6–12.6V range).
 //
-// Buy this module: https://shillehtek.com/products/12V
+// Buy this module: https://shillehtek.com/products/3s-12v-18650-lithium-battery-protection-board-11-1v-12-6v-balanced-25a
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/3s-12v-18650-lithium-battery-protection-board-11-1v-12-6v-balanced-25a-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

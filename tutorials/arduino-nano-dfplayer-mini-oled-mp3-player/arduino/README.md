@@ -1,0 +1,6 @@
+# Arduino examples
+
+- [`nano_dfplayer_oled.ino`](./nano_dfplayer_oled.ino) — Initializes the SH1106 OLED, input buttons, RGB LED pins, and DFPlayer Mini over SoftwareSerial, then restores volume, EQ, and last-played track from EEPROM.
+
+Full walkthrough: [tutorial](https://shillehtek.com/blogs/news/arduino-nano-dfplayer-mini-oled-mp3-player)  
+Parts used: [MP3-TF-16P Mini MP3 Player Module with TF Card Slot](https://shillehtek.com/products/mp3-player-module-tf-card-arduino-raspberry-pi) · [Arduino Nano V3.0 Pre-Soldered CH340G](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) · [1.3 inch I2C OLED Display (SH1106)](https://shillehtek.com/products/1-3-i2c-blue-oled-display-module-4-pin-sh1106) · [Tactile Push Buttons](https://shillehtek.com/products/200pcs-6mm-light-touch-button-switch-kit-plastic-box-4-3-5-6-7-8-9-10-12-14-16mm) · [Resistor Kit](https://shillehtek.com/products/820pcs-1-4w-1-41-kinds-each-value-20pcs-metal-film-resistors-kit-plastic-box) · [830-Point Breadboard](https://shillehtek.com/products/shillehtek-830-point-breadboard-for-arduino-raspberry-pi-esp32-and-other-microcontrollers) · [Dupont Jumper Wires](https://shillehtek.com/products/shillehtek-120pcs-multicolored-dupont-wire)

@@ -2,7 +2,7 @@
 
 The CN3791 is a small solar charger / battery voltage monitoring board used to charge and monitor single-cell LiPo/Li-ion batteries from a solar source. Developers can use it to build battery-backed sensor nodes or low-power data loggers that monitor battery voltage and react (LED, sleep, alerts) when the battery is low.
 
-**Buy:** [CN3791 Solar Charger](https://shillehtek.com/products/Battery)  
+**Buy:** [CN3791 Solar Charger](https://shillehtek.com/products/cn3791-6v-mppt-solar-charger-module)  
 **Manual:** [shillehtek.com manual](https://shillehtek.com/blogs/shillehtek-product-manuals/cn3791-6v-mppt-solar-charger-module-manual)
 
 ![CN3791 Solar Charger](https://cdn.shopify.com/s/files/1/0837/4340/8415/files/ShillehTek_PNG_Transparent_600_x_300_px.png?v=1779299472)

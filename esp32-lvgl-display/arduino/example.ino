@@ -1,6 +1,6 @@
 // Initializes the TFT_eSPI display, turns the backlight on, sets rotation and text style, and prints a single line of text to the screen.
 //
-// Buy this module: https://shillehtek.com/products/Display
+// Buy this module: https://shillehtek.com/products/esp32-lvgl-2-8-inch-240x320-smart-display-with-resistive-touch-wifi-bluetooth-dev-board
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-lvgl-2-8-inch-240x320-smart-display-with-resistive-touch-wifi-bluetooth-dev-board-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

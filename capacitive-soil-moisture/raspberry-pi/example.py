@@ -1,6 +1,6 @@
 # Uses an MCP3008 over SPI to read the sensor on CH0, clamps and scales the Adafruit library 0–65535 ADC value into a 0–100% moisture percentage, and prints raw, voltage, and percent values in a loop.
 #
-# Buy this module: https://shillehtek.com/products/Analog
+# Buy this module: https://shillehtek.com/products/capacitive-soil-moisture-sensor-v1-2
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/capacitive-soil-moisture-sensor-v1-2-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

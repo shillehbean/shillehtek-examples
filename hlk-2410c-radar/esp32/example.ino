@@ -1,6 +1,6 @@
 // Use ESP32's UART2 to receive frames from the HLK-2410C, detect the frame footer, extract state and distance fields (moving, static, detect) and log them over USB Serial.
 //
-// Buy this module: https://shillehtek.com/products/Arduino
+// Buy this module: https://shillehtek.com/products/hlk-2410c-human-presence-radar-motion-detection-module-pre-soldered
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/hlk-2410c-human-presence-radar-motion-detection-module-pre-soldered-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

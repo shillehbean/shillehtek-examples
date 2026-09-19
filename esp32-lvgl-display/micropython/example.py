@@ -1,6 +1,6 @@
 # MicroPython example that powers the backlight, initializes SPI and the ILI9341 driver, clears the screen, and draws a text string on the display.
 #
-# Buy this module: https://shillehtek.com/products/Display
+# Buy this module: https://shillehtek.com/products/esp32-lvgl-2-8-inch-240x320-smart-display-with-resistive-touch-wifi-bluetooth-dev-board
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-lvgl-2-8-inch-240x320-smart-display-with-resistive-touch-wifi-bluetooth-dev-board-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

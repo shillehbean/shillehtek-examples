@@ -1,6 +1,6 @@
 # Reads the divided pack voltage on a Raspberry Pi using an ADS1115 ADC over I2C, multiplies by the divider ratio, and prints the pack voltage periodically.
 #
-# Buy this module: https://shillehtek.com/products/12V
+# Buy this module: https://shillehtek.com/products/3s-12v-18650-lithium-battery-protection-board-11-1v-12-6v-balanced-25a
 # Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/3s-12v-18650-lithium-battery-protection-board-11-1v-12-6v-balanced-25a-manual
 # More examples: https://github.com/shillehbean/shillehtek-examples
 #

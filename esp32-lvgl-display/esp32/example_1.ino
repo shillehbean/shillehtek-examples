@@ -1,6 +1,6 @@
 // TFT_eSPI configuration: defines the ILI9341 driver, screen dimensions, SPI and touch pins, SPI speeds, backlight pin state, and enabled fonts/features.
 //
-// Buy this module: https://shillehtek.com/products/Display
+// Buy this module: https://shillehtek.com/products/esp32-lvgl-2-8-inch-240x320-smart-display-with-resistive-touch-wifi-bluetooth-dev-board
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/esp32-lvgl-2-8-inch-240x320-smart-display-with-resistive-touch-wifi-bluetooth-dev-board-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //

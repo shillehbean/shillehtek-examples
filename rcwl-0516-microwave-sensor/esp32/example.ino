@@ -1,6 +1,6 @@
 // Uses an interrupt on an ESP32 to timestamp motion events from the RCWL-0516, prints event times to Serial, and mirrors the sensor state to an LED.
 //
-// Buy this module: https://shillehtek.com/products/Arduino
+// Buy this module: https://shillehtek.com/products/rcwl-0516-microwave-doppler-radar-motion-sensor-module
 // Full manual: https://shillehtek.com/blogs/shillehtek-product-manuals/rcwl-0516-microwave-doppler-radar-motion-sensor-module-manual
 // More examples: https://github.com/shillehbean/shillehtek-examples
 //
