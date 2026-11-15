@@ -51,6 +51,7 @@ Examples are extracted from the linked articles. Check the article for your boar
 | [`acs712-5a-current`](./acs712-5a-current/) — ACS712 5A Current Sensor Module for Arduino & ESP32 | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/acs712-current-sensor-5a-arduino-esp32) |
 | [`ad8232-ecg`](./ad8232-ecg/) — AD8232 ECG Module | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/ad8232-ecg-module-heart-rate-sensor-kit) |
 | [`ads1115-adc`](./ads1115-adc/) — ADS1115, 4 Channel, I2C, IIC, Analog-to-Digital, ADC, PGA, 16 Bit, 16 Byte Converter | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/shillehtek-ads-1115-pre-soldered) |
+| [`ads1256-24bit-8ch`](./ads1256-24bit-8ch/) — ADS1256 24-Bit 8-Channel ADC Module | esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/ads1256-adc-spi-24-bit-8-channel-module) |
 | [`adxl345-accelerometer-3dof-raspberry-pi-arduino-esp32-i2c-accelerometer-klipper-tuning`](./adxl345-accelerometer-3dof-raspberry-pi-arduino-esp32-i2c-accelerometer-klipper-tuning/) — ADXL345 Accelerometer 3DOF - Raspberry Pi, Arduino, ESP32 I2C Accelerometer \| Klipper Tuning | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/shillehtek-adxl345-pre-soldered) |
 | [`amg8833-thermal-camera`](./amg8833-thermal-camera/) — AMG8833 Pre-Soldered 8x8 IR Thermal Imaging Camera Sensor for Arduino, Raspberry Pi & ESP32 (Pre-Soldered) | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/amg8833-ir-thermal-camera-sensor-arduino-esp32) |
 | [`wind-anemometer-0-5v`](./wind-anemometer-0-5v/) — Wind Speed Sensor Anemometer with 0-5V Analog Output | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/anemometer-wind-speed-0-5v-analog-output) |
@@ -60,11 +61,13 @@ Examples are extracted from the linked articles. Check the article for your boar
 | [`arduino-nano-v3`](./arduino-nano-v3/) — Arduino Nano V3.0 | arduino | [shop](https://shillehtek.com/products/arduino-nano-v3-presoldered-ch340g-atmega328p) |
 | [`arduino-uno-r3`](./arduino-uno-r3/) — Super Starter Kit for Arduino Uno R3 with Tutorial | arduino | [shop](https://shillehtek.com/products/arduino-uno-r3-starter-kit) |
 | [`voice-recognition-v3`](./voice-recognition-v3/) — Voice Recognition Module V3 for Arduino | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/arduino-voice-recognition-module-v3) |
+| [`as5600-encoder`](./as5600-encoder/) — AS5600 Pre-Soldered Magnetic Rotary Encoder Module | arduino · micropython · python | [shop](https://shillehtek.com/products/as5600-magnetic-encoder-pre-soldered-module) |
 | [`attiny85-digispark`](./attiny85-digispark/) — ATtiny85 USB Development Board (Digispark) for Arduino | arduino | [shop](https://shillehtek.com/products/attiny85-digispark-usb-arduino-development-board) |
 | [`bh1750-light-sensor`](./bh1750-light-sensor/) — BH1750 Pre-Soldered Light Intensity Module | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/shillehtek-gy-302-bh1750-pre-soldered-light-intensity-module) |
 | [`bme280-sensor`](./bme280-sensor/) — BME280 Environmental Sensor - Raspberry Pi, Arduino, ESP32 I2C Humidity, Pressure, and Temperature Measurement | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/bme280-pre-soldered-atmospheric-temperature-pressure-and-humidity-sensor) |
 | [`bmp180-sensor`](./bmp180-sensor/) — BMP180 I2C IIC Digital Atmospheric Pressure, Temperature, Altitude Sensor | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/shillehtek-bmp180-pre-soldered) |
 | [`bmp280-sensor`](./bmp280-sensor/) — BMP280 I2C IIC Digital Atmospheric Pressure, Temperature, Altitude Sensor | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/shillehtek-bmp280-pre-soldered) |
+| [`bno085-imu`](./bno085-imu/) — BNO085 Pre-Soldered IMU Orientation Sensor Module | arduino · esp32 · micropython · python | [shop](https://shillehtek.com/products/bno085-imu-pre-soldered-orientation-sensor) |
 | [`capacitive-soil-moisture`](./capacitive-soil-moisture/) — Soil Moisture Sensor V1.2 | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/capacitive-soil-moisture-sensor-v1-2) |
 | [`ch341a-eeprom`](./ch341a-eeprom/) — CH341A USB EEPROM & BIOS Flash Programmer (24/25 Series) | bash | [shop](https://shillehtek.com/products/ch341a-usb-eeprom-bios-programmer) |
 | [`ina219-current-monitor`](./ina219-current-monitor/) — INA219 | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/cjmcu-219-ina219-i2c-bi-directional-current-power-monitoring-sensor-module-with-soldering-and-foam) |
@@ -73,11 +76,13 @@ Examples are extracted from the linked articles. Check the article for your boar
 | [`mh-z19c-co2`](./mh-z19c-co2/) — MH-Z19C NDIR Infrared CO2 Sensor Module for Arduino, Raspberry Pi & ESP32 | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/co2-sensor-mh-z19c-ndir-module) |
 | [`1027-coin-vibration`](./1027-coin-vibration/) — 1027 Flat Coin Vibration Motor for Arduino, Raspberry Pi & ESP32 | arduino · micropython | [shop](https://shillehtek.com/products/coin-vibration-motor-1027-arduino-esp32) |
 | [`cp2102-usb-ttl`](./cp2102-usb-ttl/) — CP2102 USB‑TTL | python · raspberry-pi | [shop](https://shillehtek.com/products/cp2102-usb-to-ttl-uart-serial-converter-module-6pin-for-arduino) |
+| [`cp2112-usbc-i2c`](./cp2112-usbc-i2c/) — CP2112 Pre-Soldered USB-C to I2C/SMBus Adapter Module | bash · python | [shop](https://shillehtek.com/products/cp2112-usbc-i2c-smbus-adapter-presoldered) |
 | [`ultrasonic-mist-maker`](./ultrasonic-mist-maker/) — Ultrasonic Mist Maker | arduino · esp32 · raspberry-pi | [shop](https://shillehtek.com/products/dc-5v-ultrasonic-mist-maker-humidifier-module-108khz-usb) |
 | [`xl4015-buck`](./xl4015-buck/) — XL4015 Buck Module | arduino · python | [shop](https://shillehtek.com/products/dc-dc-xl4015-adjustable-step-down-module-4-38v-5a-96-high-efficiency) |
 | [`xl4015-buck-converter`](./xl4015-buck-converter/) — XL4015 Buck Converter | arduino · esp32 | [shop](https://shillehtek.com/products/dc-dc-xl4015-adjustable-step-down-module-5a-75w-with-3-bit-digital-voltmeter-display) |
 | [`dht22-sensor`](./dht22-sensor/) — DHT22 Digital Temperature and Humidity Sensor Module with Cable | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/shillehtek-dht22-with-cables) |
 | [`ttp223b-touch`](./ttp223b-touch/) — TTP223B | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/digital-sensor-ttp223b-module-capacitive-touch-switch) |
+| [`drv8871-h-bridge`](./drv8871-h-bridge/) — DRV8871 Pre-Soldered H-Bridge Brushed DC Motor Driver Module | esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/drv8871-h-bridge-motor-driver-module-pre-soldered) |
 | [`ds18b20-temp-sensor`](./ds18b20-temp-sensor/) — DS18B20 | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/ds18b20-waterproof-digital-temp-sensor-probe-1m-for-arduino-pi) |
 | [`ds3231-rtc`](./ds3231-rtc/) — DS3231 RTC Module | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/ds3231-at24c32-iic-module-precision-rtc-module-with-cr2032-battery) |
 | [`epaper-2-9-296x128`](./epaper-2-9-296x128/) — 2.9" E-Paper E-Ink Display Module 296x128 Black/White SPI for Arduino, Raspberry Pi & ESP32 | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/e-ink-display-2-9-inch-296x128-spi) |
@@ -91,8 +96,10 @@ Examples are extracted from the linked articles. Check the article for your boar
 | [`esp32-dev-board`](./esp32-dev-board/) — ESP32 Dev Board | esp32 · micropython | [shop](https://shillehtek.com/products/esp32-dev-board-cp2102-type-c-4mb) |
 | [`esp32-devkitc-ve`](./esp32-devkitc-ve/) — ESP32-DevKitC-VE | esp32 · micropython | [shop](https://shillehtek.com/products/esp32-devkitc-ve-8mb-flash-8mb-psram-presoldered) |
 | [`esp32-lvgl-display`](./esp32-lvgl-display/) — ESP32 LVGL Display | arduino · esp32 · micropython | [shop](https://shillehtek.com/products/esp32-lvgl-2-8-inch-240x320-smart-display-with-resistive-touch-wifi-bluetooth-dev-board) |
+| [`esp32-p4-wifi6`](./esp32-p4-wifi6/) — ESP32-P4 Wi-Fi 6 Development Board Kit | bash · esp32 | [shop](https://shillehtek.com/products/esp32-p4-wifi-6-development-kit) |
 | [`t-internet-poe`](./t-internet-poe/) — TTGO T-Internet-POE ESP32 Ethernet Development Board (LAN8720A) | esp32 · yaml | [shop](https://shillehtek.com/products/esp32-poe-ethernet-dev-board-lan8720a) |
 | [`esp32-s3-devkitc-1`](./esp32-s3-devkitc-1/) — ESP32-S3 DevKitC-1 | arduino · esp32 | [shop](https://shillehtek.com/products/esp32-s3-devkitc-1-presoldered-headers) |
+| [`esp32-s3-n16r8`](./esp32-s3-n16r8/) — ESP32-S3 N16R8 Pre-Soldered Development Board with IPEX Antenna Connector | esp32 · micropython | [shop](https://shillehtek.com/products/esp32-s3-n16r8-development-board-pre-soldered-headers) |
 | [`esp32-s3-nano`](./esp32-s3-nano/) — ESP32-S3 Nano | arduino · esp32 · micropython | [shop](https://shillehtek.com/products/esp32-s3-nano-dev-board-presoldered-wifi-ble) |
 | [`t-beam-lora-gps`](./t-beam-lora-gps/) — TTGO T-Beam ESP32 LoRa 915MHz Development Board with NEO-6M GPS | esp32 | [shop](https://shillehtek.com/products/esp32-tbeam-lora-915mhz-neo6m-gps) |
 | [`esp32-wroom`](./esp32-wroom/) — ESP32 Dev Board | esp32 · micropython | [shop](https://shillehtek.com/products/esp32-wroom-dev-board-cp2102-usb-c-presoldered) |
@@ -102,6 +109,7 @@ Examples are extracted from the linked articles. Check the article for your boar
 | [`dht11-temperature-humidity`](./dht11-temperature-humidity/) — DHT11 Digital Temperature and Humidity Sensor Module with Cable | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/shillehtek-dht11-with-cables) |
 | [`r307s-fingerprint`](./r307s-fingerprint/) — R307S Optical Fingerprint Sensor Module with Cable for Arduino, Raspberry Pi & ESP32 | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/fingerprint-sensor-r307s-optical-arduino-esp32) |
 | [`ky-026-flame-sensor`](./ky-026-flame-sensor/) — KY-026 Flame Sensor Module for Arduino, Raspberry Pi & ESP32 | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/flame-sensor-ky-026-arduino-esp32-raspberry-pi) |
+| [`fs90r-continuous-servo`](./fs90r-continuous-servo/) — FS90R 360-Degree Continuous Rotation Micro Servo | esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/fs90r-micro-servo-continuous-rotation) |
 | [`neo-m8n-gps`](./neo-m8n-gps/) — NEO-M8N GPS Module with Antenna & Battery for Arduino, Raspberry Pi & ESP32 | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/gps-module-neo-m8n-antenna-battery-arduino-esp32) |
 | [`gt-u7-neo6m`](./gt-u7-neo6m/) — GT-U7 NEO-6M GPS | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/gt-u7-gps-module-presoldered-1) |
 | [`tcs3200-color-sensor`](./tcs3200-color-sensor/) — GY-31 TCS3200 | arduino · esp32 · micropython | [shop](https://shillehtek.com/products/gy-31-tcs3200-rgb-color-recognition-sensor-for-arduino-projects) |
@@ -133,21 +141,26 @@ Examples are extracted from the linked articles. Check the article for your boar
 | [`l298n-dual-h-bridge`](./l298n-dual-h-bridge/) — L298N Motor Driver Controller Board Module for Stepper Motor & DC Dual H-Bridge | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/shillehtek-l298n-motor-driver-controller-board) |
 | [`lcd2004-20x4`](./lcd2004-20x4/) — LCD2004 20x4 Character LCD Display with Blue Backlight for Arduino, Raspberry Pi & ESP32 | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/lcd2004-20x4-blue-backlight-arduino-raspberry-pi-esp32) |
 | [`ld1125h-radar`](./ld1125h-radar/) — LD1125H | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/ld1125h-24ghz-mmwave-human-presence-radar-sensor-module) |
+| [`tf-luna-lidar`](./tf-luna-lidar/) — TF-Luna 8m LiDAR Distance Sensor | esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/lidar-tf-luna-single-module-8m) |
 | [`49e-linear-hall`](./49e-linear-hall/) — 49E Linear Hall Effect Magnetic Sensor for Arduino & ESP32 | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/linear-hall-effect-sensor-49e-arduino-esp32) |
 | [`50kg-load-cell`](./50kg-load-cell/) — 50kg Half-Bridge Load Cell Strain Sensor for Body Scale | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/load-cell-50kg-half-bridge-strain-sensor) |
 | [`load-cell-5kg-hx711`](./load-cell-5kg-hx711/) — 5kg Load Cell with HX711 Amplifier Weighing Sensor Kit for Arduino, Raspberry Pi & ESP32 | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/load-cell-5kg-hx711-arduino-esp32-kit) |
 | [`yzc-131-load-cell`](./yzc-131-load-cell/) — YZC-131 5kg Load Cell Weighing Sensor with Wires for Arduino, Raspberry Pi & ESP32 | arduino | [shop](https://shillehtek.com/products/load-cell-5kg-yzc-131-with-wires) |
+| [`max17048-fuel-gauge`](./max17048-fuel-gauge/) — MAX17048 Pre-Soldered Single-Cell Lithium Battery Fuel Gauge Module | arduino · micropython · python | [shop](https://shillehtek.com/products/max17048-i2c-single-cell-fuel-gauge-pre-soldered) |
 | [`max30102-pulse-oximeter`](./max30102-pulse-oximeter/) — MAX30102 Sensor | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/max30102-heart-rate-pulse-oximeter-sensor-module-black-presoldered) |
 | [`max485-ttl-rs485`](./max485-ttl-rs485/) — MAX485 TTL to RS485 Converter Module for Arduino, ESP32, STM32 & Raspberry Pi | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/max485-ttl-rs485-converter-module) |
 | [`max6675-thermocouple`](./max6675-thermocouple/) — MAX6675 | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/max6675-module-k-type-thermocouple-sensor-measures-up-to-1024-degrees) |
 | [`max7219-matrix`](./max7219-matrix/) — MAX7219 Matrix | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/max7219-4-in-1-dot-matrix-display-module-red) |
 | [`max7219-8x8`](./max7219-8x8/) — MAX7219 8x8 Module | arduino · micropython | [shop](https://shillehtek.com/products/max7219-dot-matrix-led-display-module-8x8-driver-for-arduino) |
+| [`max9814-microphone`](./max9814-microphone/) — MAX9814 Pre-Soldered Microphone AGC Amplifier Module | arduino · micropython | [shop](https://shillehtek.com/products/max9814-microphone-agc-amplifier-module-pre-soldered-header) |
+| [`max98357-i2s-amp`](./max98357-i2s-amp/) — MAX98357 Pre-Soldered I2S Class D Audio Amplifier Module | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/max98357-i2s-class-d-amplifier-module-pre-soldered) |
 | [`mcp23017-io-expander`](./mcp23017-io-expander/) — MCP23017 Pre-Soldered I2C 16-Bit I/O Port Expander for Arduino, Raspberry Pi & ESP32 | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/mcp23017-i2c-16bit-io-port-expander-presoldered) |
 | [`mcp2515-can`](./mcp2515-can/) — MCP2515 CAN Bus Module | arduino | [shop](https://shillehtek.com/products/mcp2515-can-bus-module-tja1050-receiver-spi) |
 | [`mega-2560-r3`](./mega-2560-r3/) — MEGA 2560 R3 CH340 Development Board for Arduino | arduino | [shop](https://shillehtek.com/products/mega-2560-r3-ch340-arduino-board) |
 | [`mg90s-servo`](./mg90s-servo/) — MG90S Servo | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/mg90s-metal-gear-micro-servo-motor-180-degree-9g-for-rc-plane) |
 | [`mg995-servo`](./mg995-servo/) — MG995 Servo | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/mg995-metal-gear-servo-motor-12kg-high-torque-180-degree-diy) |
 | [`micro-sd-spi`](./micro-sd-spi/) — Micro SD SPI Module | arduino · esp32 · micropython | [shop](https://shillehtek.com/products/micro-sd-tf-card-adapter-reader-module-spi-interface-for-arduino) |
+| [`4ohm-3w-speaker`](./4ohm-3w-speaker/) — 4 Ohm 3W Square Mini Speaker with 150mm Dupont Lead | arduino · bash · micropython | [shop](https://shillehtek.com/products/mini-speaker-4ohm-3w-square-150mm-dupont-lead) |
 | [`mini-sub-pump`](./mini-sub-pump/) — Mini Submersible Water Pump 3-5V for Arduino, Raspberry Pi & ESP32 | arduino · micropython | [shop](https://shillehtek.com/products/mini-submersible-water-pump-3-5v-arduino-raspberry) |
 | [`submersible-pump-5v`](./submersible-pump-5v/) — Mini Submersible Water Pump 5V 120L/H with 1.5m Cable for Arduino, Raspberry Pi & ESP32 | arduino · raspberry-pi | [shop](https://shillehtek.com/products/mini-submersible-water-pump-5v-120lph-arduino-esp32) |
 | [`mini-usb-host-shield`](./mini-usb-host-shield/) — Mini USB Host Shield | arduino | [shop](https://shillehtek.com/products/mini-usb-host-shield-2-0-adk-module-max3421e-for-arduino-pro-mini) |
@@ -168,12 +181,14 @@ Examples are extracted from the linked articles. Check the article for your boar
 | [`pan-tilt-bracket`](./pan-tilt-bracket/) — Pan-Tilt Servo Bracket Kit for SG90 & MG90S Micro Servos | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/pan-tilt-servo-bracket-kit-sg90-mg90s) |
 | [`pca9685-16ch-pwm`](./pca9685-16ch-pwm/) — PCA9685 | arduino · python | [shop](https://shillehtek.com/products/pca9685-16-channel-12-bit-pwm-servo-motor-driver-i2c-for-arduino) |
 | [`pcf8574-i2c-lcd`](./pcf8574-i2c-lcd/) — PCF8574 I2C LCD Backpack | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/pcf8574-i2c-serial-interface-adapter-module-for-1602-2004-lcd) |
+| [`pcm5102-i2s-dac`](./pcm5102-i2s-dac/) — PCM5102 Pre-Soldered I2S Stereo DAC Audio Module | arduino · esp32 · micropython · python | [shop](https://shillehtek.com/products/pcm5102-i2s-stereo-dac-presoldered-module) |
 | [`pd-decoy`](./pd-decoy/) — PDSink PD Decoy | arduino · esp32 · micropython | [shop](https://shillehtek.com/products/pdsink-pd-decoy-pd-fast-charging-test-board-5-20v) |
 | [`tec1-12706-peltier`](./tec1-12706-peltier/) — TEC1-12706 Thermoelectric Peltier Cooler Plate 12V 40x40mm | arduino · micropython | [shop](https://shillehtek.com/products/peltier-module-tec1-12706-12v-40x40mm) |
 | [`ky018-photoresistor`](./ky018-photoresistor/) — KY-018 Photoresistor Light Sensor Module for Arduino & ESP32 | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/photoresistor-light-sensor-ky-018-arduino-esp32) |
 | [`pn532-nfc-reader`](./pn532-nfc-reader/) — PN532 NFC RFID Reader Writer Module V3 13.56MHz | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/pn532-nfc-rfid-reader-writer-module-v3) |
 | [`pro-micro-32u4`](./pro-micro-32u4/) — Pro Micro ATmega32U4 | arduino | [shop](https://shillehtek.com/products/pro-micro-atmega32u4-5v-16mhz-pre-soldered-usb-c-development-board) |
 | [`pzem-004t-energy-meter`](./pzem-004t-energy-meter/) — PZEM-004T AC Energy Meter & Power Monitor Module with Current Transformer | arduino · esp32 · micropython · python | [shop](https://shillehtek.com/products/pzem-004t-ac-energy-meter-current-transformer) |
+| [`rpi-debug-probe`](./rpi-debug-probe/) — Raspberry Pi Debug Probe USB Debugging Kit | bash | [shop](https://shillehtek.com/products/raspberry-pi-debug-probe-swd-uart-kit) |
 | [`pico-2-headers`](./pico-2-headers/) — Pico 2 Headers | arduino · micropython · python · raspberry-pi | [shop](https://shillehtek.com/products/raspberry-pi-pico-2-usb-c-presoldered-headers) |
 | [`pico-2w`](./pico-2w/) — Pico 2W Presoldered Headers | esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/raspberry-pi-pico-2w-presoldered-headers) |
 | [`rc522-rfid-reader`](./rc522-rfid-reader/) — RC522 RFID Module | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/rc522-rfid-reader-writer-module-13-56mhz-kit-for-arduino) |
@@ -203,6 +218,7 @@ Examples are extracted from the linked articles. Check the article for your boar
 | [`stm32h723-core`](./stm32h723-core/) — STM32H723ZGT6 Board | arduino | [shop](https://shillehtek.com/products/shillehtek-pre-soldered-stm32h723zgt6-core-development-board) |
 | [`txs0108e-level-shifter`](./txs0108e-level-shifter/) — TXS0108E | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/shillehtek-pre-soldered-txs0108e-high-speed-full-duplex-8-channel-logic-level-bi-directional-converter) |
 | [`blue-pill-stm32f103-unsoldered`](./blue-pill-stm32f103-unsoldered/) — Blue Pill STM32F103C8T6 | arduino | [shop](https://shillehtek.com/products/shillehtek-unsoldered-stm32f103c8t6-blue-pill-arm-development-board-kit-pro-usb-v) |
+| [`sht45-sensor`](./sht45-sensor/) — GY-SHT45 Pre-Soldered Temperature & Humidity I2C Sensor Module | arduino · micropython · python | [shop](https://shillehtek.com/products/sht45-i2c-temperature-humidity-sensor-module-pre-soldered) |
 | [`10k-slide-pot`](./10k-slide-pot/) — 10K Slide Potentiometer Module for Arduino & ESP32 | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/slide-potentiometer-module-10k-arduino-esp32) |
 | [`soil-moisture-sensor`](./soil-moisture-sensor/) — Soil Moisture Sensor | arduino · esp32 · micropython · python | [shop](https://shillehtek.com/products/soil-moisture-sensor-hygrometer-module-for-arduino-watering-kit) |
 | [`1ch-5v-ssr`](./1ch-5v-ssr/) — 1-Channel 5V Solid State Relay Module (Low-Level Trigger) for Arduino, Raspberry Pi & ESP32 | arduino · esp32 · micropython · raspberry-pi | [shop](https://shillehtek.com/products/solid-state-relay-1ch-5v-active-low) |
@@ -217,6 +233,8 @@ Examples are extracted from the linked articles. Check the article for your boar
 | [`sw-520d-tilt-switch`](./sw-520d-tilt-switch/) — SW-520D Tilt Ball Switch Vibration Sensor for Arduino, Raspberry Pi & ESP32 | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/tilt-switch-sw-520d-vibration-sensor) |
 | [`tp4056-charger`](./tp4056-charger/) — TP4056 Charger | arduino · esp32 · micropython | [shop](https://shillehtek.com/products/tp4056-1a-lipo-battery-charging-board-type-c-with-current-protection) |
 | [`tpa3118-pbtl-amp`](./tpa3118-pbtl-amp/) — TPA3118 PBTL Amp | arduino · esp32 | [shop](https://shillehtek.com/products/tpa3118-pbtl-single-digital-amplifier-board-1x60w) |
+| [`tpl5110-power-timer`](./tpl5110-power-timer/) — TPL5110 Pre-Soldered Low-Power Timer Module | esp32 · micropython | [shop](https://shillehtek.com/products/tpl5110-timer-module-pre-soldered-header) |
+| [`tsl2591-sensor`](./tsl2591-sensor/) — TSL2591 Pre-Soldered Digital Light Sensor Module | esp32 · micropython · python | [shop](https://shillehtek.com/products/tsl2591-light-sensor-presoldered-purple-breakout-single) |
 | [`tt-gear-motor`](./tt-gear-motor/) — TT Gear Motor 3-6V 1:48 125RPM for Robot Car | arduino · micropython | [shop](https://shillehtek.com/products/tt-gear-motor-3-6v-1-48-125rpm) |
 | [`usb-5v-relay`](./usb-5v-relay/) — USB 5V Relay | python · raspberry-pi | [shop](https://shillehtek.com/products/usb-control-module-1-channel-5v-relay-module-no-driver-needed) |
 | [`guva-s12sd-uv`](./guva-s12sd-uv/) — GUVA-S12SD UV Light Intensity Sensor Module for Arduino & ESP32 | arduino · micropython · raspberry-pi | [shop](https://shillehtek.com/products/uv-sensor-guva-s12sd-arduino-esp32) |
@@ -236,7 +254,7 @@ Examples are extracted from the linked articles. Check the article for your boar
 | [`xiao-esp32s3`](./xiao-esp32s3/) — XIAO ESP32S3 | esp32 · micropython | [shop](https://shillehtek.com/products/xiao-seeed-esp32s3-pre-soldered-with-usb-c-cable) |
 | [`xiao-nrf52840`](./xiao-nrf52840/) — XIAO nRF52840 | arduino · python | [shop](https://shillehtek.com/products/xiao-seeed-nrf52840-pre-soldered-with-usb-c-cable) |
 
-_222 module(s). Last verified: see commit history._
+_240 module(s). Last verified: see commit history._
 
 ## Tutorials
 
